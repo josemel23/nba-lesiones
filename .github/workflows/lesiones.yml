@@ -17,9 +17,11 @@ jobs:
         with:
           node-version: 20
       - run: node scrape.js
-      - name: Guardar lesiones.json si cambió
+      - name: Enriquecer (stats y regresos)
+        run: node enriquecer.js
+      - name: Guardar archivos si cambiaron
         run: |
           git config user.name "github-actions"
           git config user.email "actions@users.noreply.github.com"
-          git add lesiones.json
+          git add lesiones.json regresos.json estado-lesiones.json
           git diff --cached --quiet || (git commit -m "Actualizar lesiones" && git push)
