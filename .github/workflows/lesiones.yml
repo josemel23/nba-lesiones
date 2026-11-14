@@ -1,0 +1,25 @@
+name: Actualizar lesiones NBA
+
+on:
+  schedule:
+    - cron: "0 14,20,23 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scrape.js
+      - name: Guardar lesiones.json si cambió
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@users.noreply.github.com"
+          git add lesiones.json
+          git diff --cached --quiet || (git commit -m "Actualizar lesiones" && git push)
