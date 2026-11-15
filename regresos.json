@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-14T23:36:10.561Z",
+  "actualizado": "2026-11-15T19:31:25.259Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -56,6 +56,60 @@
       }
     },
     {
+      "espnId": "2530530",
+      "nombre": "T.J. McConnell",
+      "equipo": "Indiana Pacers",
+      "abrev": "IND",
+      "pos": "G",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 4,
+        "mpg": 12,
+        "ppg": 5.3,
+        "rpg": 2,
+        "apg": 4.5,
+        "spg": 1,
+        "bpg": 0.3
+      }
+    },
+    {
+      "espnId": "2595516",
+      "nombre": "Norman Powell",
+      "equipo": "Chicago Bulls",
+      "abrev": "CHI",
+      "pos": "G",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 9,
+        "mpg": 29,
+        "ppg": 20.8,
+        "rpg": 2.8,
+        "apg": 1.7,
+        "spg": 1.6,
+        "bpg": 0
+      }
+    },
+    {
+      "espnId": "2991235",
+      "nombre": "Steven Adams",
+      "equipo": "Houston Rockets",
+      "abrev": "HOU",
+      "pos": "C",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 1,
+        "mpg": 8,
+        "ppg": 4,
+        "rpg": 2,
+        "apg": 1,
+        "spg": 0,
+        "bpg": 0
+      }
+    },
+    {
       "espnId": "3032977",
       "nombre": "Giannis Antetokounmpo",
       "equipo": "Miami Heat",
@@ -74,6 +128,42 @@
       }
     },
     {
+      "espnId": "4396909",
+      "nombre": "Aaron Nesmith",
+      "equipo": "Indiana Pacers",
+      "abrev": "IND",
+      "pos": "G",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 11,
+        "mpg": 25.8,
+        "ppg": 12.3,
+        "rpg": 2.6,
+        "apg": 1.6,
+        "spg": 0.7,
+        "bpg": 0.3
+      }
+    },
+    {
+      "espnId": "4397014",
+      "nombre": "Quentin Grimes",
+      "equipo": "Los Angeles Lakers",
+      "abrev": "LAL",
+      "pos": "G",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 11,
+        "mpg": 26.1,
+        "ppg": 8,
+        "rpg": 2.5,
+        "apg": 2.5,
+        "spg": 0.9,
+        "bpg": 0.2
+      }
+    },
+    {
       "espnId": "4431684",
       "nombre": "Trayce Jackson-Davis",
       "equipo": "Toronto Raptors",
@@ -89,6 +179,24 @@
         "apg": 0.4,
         "spg": 0.8,
         "bpg": 0.3
+      }
+    },
+    {
+      "espnId": "4433287",
+      "nombre": "Brandon Miller",
+      "equipo": "Charlotte Hornets",
+      "abrev": "CHA",
+      "pos": "F",
+      "regresoReal": "2026-11-15T19:31:25.259Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 10,
+        "mpg": 31,
+        "ppg": 20.6,
+        "rpg": 5,
+        "apg": 2.2,
+        "spg": 1.1,
+        "bpg": 0.7
       }
     },
     {
