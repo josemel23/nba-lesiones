@@ -38,7 +38,7 @@
       "equipo": "Golden State Warriors",
       "abrev": "GS",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3992": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -52,12 +52,14 @@
         "bpg": 0.5
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "James Harden",
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4251": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -97,7 +99,7 @@
       "equipo": "Golden State Warriors",
       "abrev": "GS",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "6440": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -116,7 +118,7 @@
       "equipo": "San Antonio Spurs",
       "abrev": "SA",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "6442": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -135,7 +137,7 @@
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "6450": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -154,7 +156,7 @@
       "equipo": "Toronto Raptors",
       "abrev": "TOR",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "6475": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -194,7 +196,7 @@
       "equipo": "LA Clippers",
       "abrev": "LAC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "2530530": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -255,7 +257,7 @@
       "equipo": "Houston Rockets",
       "abrev": "HOU",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "2991070": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -269,12 +271,14 @@
         "bpg": 0.8
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Jerami Grant",
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "2991230": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -287,13 +291,13 @@
         "spg": 1.2,
         "bpg": 0.3
       },
-      "statsTs": 1794699370561,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Fred VanVleet",
       "equipo": "Houston Rockets",
       "abrev": "HOU",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "2991235": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -354,7 +358,7 @@
       "equipo": "Charlotte Hornets",
       "abrev": "CHA",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3059318": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -367,13 +371,13 @@
         "spg": 0.7,
         "bpg": 0.7
       },
-      "statsTs": 1794699370561,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Joel Embiid",
       "equipo": "Philadelphia 76ers",
       "abrev": "PHI",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3102529": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -392,7 +396,7 @@
       "equipo": "Houston Rockets",
       "abrev": "HOU",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3102530": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -411,7 +415,7 @@
       "equipo": "Utah Jazz",
       "abrev": "UTAH",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3102531": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -430,7 +434,7 @@
       "equipo": "Golden State Warriors",
       "abrev": "GS",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3146557": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -449,7 +453,7 @@
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3157465": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -468,7 +472,7 @@
       "equipo": "Detroit Pistons",
       "abrev": "DET",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3907387": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -487,7 +491,7 @@
       "equipo": "Sacramento Kings",
       "abrev": "SAC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3907497": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -506,7 +510,7 @@
       "equipo": "New Orleans Pelicans",
       "abrev": "NO",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3908809": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -520,12 +524,14 @@
         "bpg": 0.5
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Donovan Mitchell",
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "3913176": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -544,7 +550,7 @@
       "equipo": "LA Clippers",
       "abrev": "LAC",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "3934673": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -563,7 +569,7 @@
       "equipo": "Minnesota Timberwolves",
       "abrev": "MIN",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4065654": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -582,7 +588,7 @@
       "equipo": "Orlando Magic",
       "abrev": "ORL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4065733": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -601,7 +607,7 @@
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4066259": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -620,7 +626,7 @@
       "equipo": "San Antonio Spurs",
       "abrev": "SA",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4066328": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -634,12 +640,14 @@
         "bpg": 1.4
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Jarrett Allen",
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4066336": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -658,7 +666,7 @@
       "equipo": "Utah Jazz",
       "abrev": "UTAH",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4066457": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -677,7 +685,7 @@
       "equipo": "Los Angeles Lakers",
       "abrev": "LAL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4066757": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -696,7 +704,7 @@
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4277811": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -710,12 +718,14 @@
         "bpg": 0.3
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Collin Sexton",
       "equipo": "Los Angeles Lakers",
       "abrev": "LAL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4277961": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -734,7 +744,7 @@
       "equipo": "Utah Jazz",
       "abrev": "UTAH",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4278049": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -748,12 +758,14 @@
         "bpg": 1.7
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Daniel Gafford",
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 0
     },
     "4278067": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -767,12 +779,14 @@
         "bpg": 1.3
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Nic Claxton",
       "equipo": "Chicago Bulls",
       "abrev": "CHI",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4278104": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -786,12 +800,14 @@
         "bpg": 0.4
       },
       "statsTs": 1794699370561,
-      "activo": true,
+      "activo": false,
       "nombre": "Michael Porter Jr.",
       "equipo": "Brooklyn Nets",
       "abrev": "BKN",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4279888": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -810,7 +826,7 @@
       "equipo": "Portland Trail Blazers",
       "abrev": "POR",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4395702": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -829,7 +845,7 @@
       "equipo": "Detroit Pistons",
       "abrev": "DET",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4395712": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -848,7 +864,7 @@
       "equipo": "Indiana Pacers",
       "abrev": "IND",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4396818": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -867,7 +883,7 @@
       "equipo": "LA Clippers",
       "abrev": "LAC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4396909": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -907,7 +923,7 @@
       "equipo": "Indiana Pacers",
       "abrev": "IND",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4397014": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -947,7 +963,7 @@
       "equipo": "Golden State Warriors",
       "abrev": "GS",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4397077": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -966,7 +982,7 @@
       "equipo": "Utah Jazz",
       "abrev": "UTAH",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4397189": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -985,7 +1001,7 @@
       "equipo": "Chicago Bulls",
       "abrev": "CHI",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4397688": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1004,7 +1020,7 @@
       "equipo": "New Orleans Pelicans",
       "abrev": "NO",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4411057": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1023,7 +1039,7 @@
       "equipo": "Toronto Raptors",
       "abrev": "TOR",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4431675": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1042,7 +1058,7 @@
       "equipo": "New Orleans Pelicans",
       "abrev": "NO",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4431679": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1061,7 +1077,7 @@
       "equipo": "Sacramento Kings",
       "abrev": "SAC",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4431684": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1101,7 +1117,7 @@
       "equipo": "Phoenix Suns",
       "abrev": "PHX",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4431785": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1120,7 +1136,7 @@
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432158": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1139,7 +1155,7 @@
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432171": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1158,7 +1174,7 @@
       "equipo": "Golden State Warriors",
       "abrev": "GS",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432181": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1177,7 +1193,7 @@
       "equipo": "Denver Nuggets",
       "abrev": "DEN",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432187": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1196,7 +1212,7 @@
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432247": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -1215,7 +1231,7 @@
       "equipo": "Minnesota Timberwolves",
       "abrev": "MIN",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432573": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1234,7 +1250,7 @@
       "equipo": "Orlando Magic",
       "abrev": "ORL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432582": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1253,18 +1269,37 @@
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432586": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Nate Bittle",
       "equipo": "Toronto Raptors",
       "abrev": "TOR",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
+    },
+    "4432810": {
+      "primeraVez": "2026-11-15T23:41:01.688Z",
+      "stats": {
+        "gp": 10,
+        "mpg": 18.2,
+        "ppg": 10.9,
+        "rpg": 3.3,
+        "apg": 0.9,
+        "spg": 0.1,
+        "bpg": 0.9
+      },
+      "statsTs": 1794786061688,
+      "activo": true,
+      "nombre": "Isaiah Stewart",
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "pos": "C",
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432823": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1283,7 +1318,7 @@
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4432907": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1302,7 +1337,7 @@
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4433076": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1321,7 +1356,7 @@
       "equipo": "Indiana Pacers",
       "abrev": "IND",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4433134": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1335,12 +1370,14 @@
         "bpg": 0.6
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Scottie Barnes",
       "equipo": "Toronto Raptors",
       "abrev": "TOR",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4433255": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1359,7 +1396,7 @@
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4433268": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1378,7 +1415,7 @@
       "equipo": "Utah Jazz",
       "abrev": "UTAH",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4433287": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1418,7 +1455,7 @@
       "equipo": "Detroit Pistons",
       "abrev": "DET",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4576086": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1437,7 +1474,7 @@
       "equipo": "New Orleans Pelicans",
       "abrev": "NO",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4576087": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1456,7 +1493,7 @@
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4578893": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1475,7 +1512,7 @@
       "equipo": "Portland Trail Blazers",
       "abrev": "POR",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4585618": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1494,7 +1531,7 @@
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4591725": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -1513,7 +1550,7 @@
       "equipo": "Milwaukee Bucks",
       "abrev": "MIL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4593016": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1532,7 +1569,7 @@
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4593125": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -1551,7 +1588,7 @@
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4593803": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1570,7 +1607,7 @@
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4594268": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1589,7 +1626,7 @@
       "equipo": "Minnesota Timberwolves",
       "abrev": "MIN",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4594327": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -1603,12 +1640,14 @@
         "bpg": 1
       },
       "statsTs": 1794699370561,
-      "activo": true,
+      "activo": false,
       "nombre": "Keegan Murray",
       "equipo": "Sacramento Kings",
       "abrev": "SAC",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4600663": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1627,7 +1666,7 @@
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4601025": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1646,7 +1685,7 @@
       "equipo": "Miami Heat",
       "abrev": "MIA",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4606840": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1665,7 +1704,7 @@
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4683634": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -1678,13 +1717,13 @@
         "spg": 0.3,
         "bpg": 0
       },
-      "statsTs": 1794699370561,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Bennedict Mathurin",
       "equipo": "New Orleans Pelicans",
       "abrev": "NO",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4683688": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1703,7 +1742,7 @@
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4683692": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1722,7 +1761,26 @@
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
+    },
+    "4683747": {
+      "primeraVez": "2026-11-15T23:41:01.688Z",
+      "stats": {
+        "gp": 8,
+        "mpg": 23.8,
+        "ppg": 9.5,
+        "rpg": 3.1,
+        "apg": 2.5,
+        "spg": 0.5,
+        "bpg": 0.4
+      },
+      "statsTs": 1794786061688,
+      "activo": true,
+      "nombre": "Jaylon Tyson",
+      "equipo": "Cleveland Cavaliers",
+      "abrev": "CLE",
+      "pos": "G",
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4701232": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1741,7 +1799,7 @@
       "equipo": "Phoenix Suns",
       "abrev": "PHX",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4706557": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1760,7 +1818,7 @@
       "equipo": "Portland Trail Blazers",
       "abrev": "POR",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4712863": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1779,7 +1837,7 @@
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4845374": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1793,12 +1851,14 @@
         "bpg": 0.2
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Bub Carrington",
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "4870562": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1817,7 +1877,7 @@
       "equipo": "Philadelphia 76ers",
       "abrev": "PHI",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4871141": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1836,7 +1896,7 @@
       "equipo": "Philadelphia 76ers",
       "abrev": "PHI",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4873153": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1876,7 +1936,7 @@
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4898371": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1895,7 +1955,7 @@
       "equipo": "Sacramento Kings",
       "abrev": "SAC",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4900671": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1914,7 +1974,7 @@
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4914336": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1933,7 +1993,7 @@
       "equipo": "Portland Trail Blazers",
       "abrev": "POR",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4997526": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -1946,13 +2006,32 @@
         "spg": 0.2,
         "bpg": 0
       },
-      "statsTs": 1794699370561,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Ousmane Dieng",
       "equipo": "Milwaukee Bucks",
       "abrev": "MIL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
+    },
+    "4997536": {
+      "primeraVez": "2026-11-15T23:41:01.688Z",
+      "stats": {
+        "gp": 10,
+        "mpg": 18.6,
+        "ppg": 5.6,
+        "rpg": 3.9,
+        "apg": 1.4,
+        "spg": 0.4,
+        "bpg": 0.5
+      },
+      "statsTs": 1794786061688,
+      "activo": true,
+      "nombre": "Gui Santos",
+      "equipo": "Golden State Warriors",
+      "abrev": "GS",
+      "pos": "F",
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "4997537": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -1971,18 +2050,18 @@
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5037878": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Ugonna Onyenso",
       "equipo": "Detroit Pistons",
       "abrev": "DET",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5060631": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -1996,12 +2075,14 @@
         "bpg": 0.3
       },
       "statsTs": 1794771085259,
-      "activo": true,
+      "activo": false,
       "nombre": "Adou Thiero",
       "equipo": "Los Angeles Lakers",
       "abrev": "LAL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 0
     },
     "5061575": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2020,7 +2101,7 @@
       "equipo": "Charlotte Hornets",
       "abrev": "CHA",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5061589": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2046,13 +2127,13 @@
     "5061603": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Thomas Sorber",
       "equipo": "Oklahoma City Thunder",
       "abrev": "OKC",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5095151": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2071,7 +2152,7 @@
       "equipo": "Chicago Bulls",
       "abrev": "CHI",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5101761": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2097,24 +2178,24 @@
     "5101845": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Jayden Quaintance",
       "equipo": "San Antonio Spurs",
       "abrev": "SA",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5105462": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Richie Saunders",
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5105550": {
       "primeraVez": "2026-11-15T19:31:25.259Z",
@@ -2133,7 +2214,7 @@
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5105555": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2152,18 +2233,18 @@
       "equipo": "Chicago Bulls",
       "abrev": "CHI",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5105571": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Henri Veesaar",
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5105637": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2182,7 +2263,7 @@
       "equipo": "Philadelphia 76ers",
       "abrev": "PHI",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5106268": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2201,18 +2282,18 @@
       "equipo": "Cleveland Cavaliers",
       "abrev": "CLE",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5107251": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Izaiyah Nelson",
       "equipo": "Orlando Magic",
       "abrev": "ORL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5108024": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2231,18 +2312,18 @@
       "equipo": "LA Clippers",
       "abrev": "LAC",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5148538": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
       "stats": null,
-      "statsTs": 1794771085259,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Tarik Biberovic",
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5149077": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2261,7 +2342,7 @@
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5157066": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2280,7 +2361,7 @@
       "equipo": "Indiana Pacers",
       "abrev": "IND",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5160992": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -2294,12 +2375,14 @@
         "bpg": 0.9
       },
       "statsTs": 1794699370561,
-      "activo": true,
+      "activo": false,
       "nombre": "Alex Sarr",
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "C",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T19:31:25.259Z",
+      "regresoReal": "2026-11-15T23:41:01.688Z",
+      "diasFuera": 1
     },
     "5214637": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2318,7 +2401,7 @@
       "equipo": "Orlando Magic",
       "abrev": "ORL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5238230": {
       "primeraVez": "2026-11-14T23:36:10.561Z",
@@ -2331,13 +2414,13 @@
         "spg": 0.8,
         "bpg": 0.1
       },
-      "statsTs": 1794699370561,
+      "statsTs": 1794786061688,
       "activo": true,
       "nombre": "Tre Johnson",
       "equipo": "Washington Wizards",
       "abrev": "WSH",
       "pos": "G",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5279129": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2356,7 +2439,7 @@
       "equipo": "Dallas Mavericks",
       "abrev": "DAL",
       "pos": "F",
-      "ultimaVez": "2026-11-15T19:31:25.259Z"
+      "ultimaVez": "2026-11-15T23:41:01.688Z"
     },
     "5279130": {
       "primeraVez": "2026-11-14T21:03:32.236Z",
@@ -2380,5 +2463,5 @@
       "diasFuera": 0
     }
   },
-  "actualizado": "2026-11-15T19:31:25.259Z"
+  "actualizado": "2026-11-15T23:41:01.688Z"
 }
