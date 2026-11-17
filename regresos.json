@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-16T23:09:40.959Z",
+  "actualizado": "2026-11-17T21:58:41.613Z",
   "regresos": [
     {
       "espnId": "3992",
@@ -92,6 +92,24 @@
       }
     },
     {
+      "espnId": "2990992",
+      "nombre": "Marcus Smart",
+      "equipo": "Houston Rockets",
+      "abrev": "HOU",
+      "pos": "G",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 9,
+        "mpg": 21.3,
+        "ppg": 8.3,
+        "rpg": 2.6,
+        "apg": 2,
+        "spg": 1,
+        "bpg": 0.1
+      }
+    },
+    {
       "espnId": "2991070",
       "nombre": "Jerami Grant",
       "equipo": "Memphis Grizzlies",
@@ -128,6 +146,24 @@
       }
     },
     {
+      "espnId": "2991235",
+      "nombre": "Steven Adams",
+      "equipo": "Houston Rockets",
+      "abrev": "HOU",
+      "pos": "C",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 2,
+        "mpg": 10.5,
+        "ppg": 5,
+        "rpg": 4.5,
+        "apg": 1,
+        "spg": 0,
+        "bpg": 0.5
+      }
+    },
+    {
       "espnId": "3032977",
       "nombre": "Giannis Antetokounmpo",
       "equipo": "Miami Heat",
@@ -143,6 +179,24 @@
         "apg": 4.9,
         "spg": 0.8,
         "bpg": 1
+      }
+    },
+    {
+      "espnId": "3059318",
+      "nombre": "Joel Embiid",
+      "equipo": "Philadelphia 76ers",
+      "abrev": "PHI",
+      "pos": "C",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 11,
+        "mpg": 31.5,
+        "ppg": 17.9,
+        "rpg": 8.8,
+        "apg": 3.7,
+        "spg": 0.7,
+        "bpg": 0.7
       }
     },
     {
@@ -362,24 +416,6 @@
       }
     },
     {
-      "espnId": "4433134",
-      "nombre": "Scottie Barnes",
-      "equipo": "Toronto Raptors",
-      "abrev": "TOR",
-      "pos": "F",
-      "regresoReal": "2026-11-15T23:41:01.688Z",
-      "diasFuera": 1,
-      "stats": {
-        "gp": 8,
-        "mpg": 33.3,
-        "ppg": 23.5,
-        "rpg": 7.6,
-        "apg": 5.1,
-        "spg": 2.3,
-        "bpg": 0.6
-      }
-    },
-    {
       "espnId": "4433268",
       "nombre": "Trey Alexander",
       "equipo": "Utah Jazz",
@@ -416,24 +452,6 @@
       }
     },
     {
-      "espnId": "4576087",
-      "nombre": "Peyton Watson",
-      "equipo": "Cleveland Cavaliers",
-      "abrev": "CLE",
-      "pos": "G",
-      "regresoReal": "2026-11-16T23:09:40.959Z",
-      "diasFuera": 2,
-      "stats": {
-        "gp": 11,
-        "mpg": 28.2,
-        "ppg": 10.4,
-        "rpg": 4.5,
-        "apg": 2.7,
-        "spg": 0.7,
-        "bpg": 1.5
-      }
-    },
-    {
       "espnId": "4585618",
       "nombre": "Keshon Gilbert",
       "equipo": "Atlanta Hawks",
@@ -452,6 +470,24 @@
       }
     },
     {
+      "espnId": "4593016",
+      "nombre": "Quinten Post",
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "pos": "C",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 8,
+        "mpg": 13,
+        "ppg": 5,
+        "rpg": 2.1,
+        "apg": 0.4,
+        "spg": 0.3,
+        "bpg": 0.3
+      }
+    },
+    {
       "espnId": "4594327",
       "nombre": "Keegan Murray",
       "equipo": "Sacramento Kings",
@@ -467,6 +503,42 @@
         "apg": 1.6,
         "spg": 1.2,
         "bpg": 1
+      }
+    },
+    {
+      "espnId": "4600663",
+      "nombre": "Zach Edey",
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "pos": "C",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 10,
+        "mpg": 20.7,
+        "ppg": 7.6,
+        "rpg": 7.7,
+        "apg": 0.9,
+        "spg": 0.1,
+        "bpg": 1.3
+      }
+    },
+    {
+      "espnId": "4601025",
+      "nombre": "Pelle Larsson",
+      "equipo": "Miami Heat",
+      "abrev": "MIA",
+      "pos": "G",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 11,
+        "mpg": 29.5,
+        "ppg": 11.4,
+        "rpg": 3.5,
+        "apg": 3.5,
+        "spg": 1.3,
+        "bpg": 0.1
       }
     },
     {
@@ -506,6 +578,24 @@
       }
     },
     {
+      "espnId": "4888725",
+      "nombre": "Ryan Dunn",
+      "equipo": "Phoenix Suns",
+      "abrev": "PHX",
+      "pos": "F",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 12,
+        "mpg": 17.5,
+        "ppg": 5.1,
+        "rpg": 4.2,
+        "apg": 1.2,
+        "spg": 0.6,
+        "bpg": 0.7
+      }
+    },
+    {
       "espnId": "4900671",
       "nombre": "Ajay Mitchell",
       "equipo": "Oklahoma City Thunder",
@@ -521,6 +611,24 @@
         "apg": 3.3,
         "spg": 1.2,
         "bpg": 0.4
+      }
+    },
+    {
+      "espnId": "4997536",
+      "nombre": "Gui Santos",
+      "equipo": "Golden State Warriors",
+      "abrev": "GS",
+      "pos": "F",
+      "regresoReal": "2026-11-17T21:58:41.613Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 10,
+        "mpg": 18.6,
+        "ppg": 5.6,
+        "rpg": 3.9,
+        "apg": 1.4,
+        "spg": 0.4,
+        "bpg": 0.5
       }
     },
     {

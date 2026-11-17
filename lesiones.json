@@ -1,9 +1,84 @@
 {
-  "actualizado": "2026-11-16T23:09:40.886Z",
+  "actualizado": "2026-11-17T21:58:41.543Z",
   "fuente": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries",
-  "espnTimestamp": "2026-11-16T23:09:35Z",
-  "total": 103,
+  "espnTimestamp": "2026-11-17T21:58:35Z",
+  "total": 107,
   "jugadores": [
+    {
+      "equipo": "Atlanta Hawks",
+      "abrev": "ATL",
+      "nombre": "Asa Newell",
+      "espnId": "4873201",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Toe",
+      "regreso": "2027-03-17",
+      "fecha": "2026-11-17T21:16Z",
+      "comentario": "Newell underwent surgery Tuesday for a plantar plate tear in his left great toe, and he will be re-evaluated in approximately four months, Brad Rowland of the Locked On Podcast Network reports.",
+      "nivel": "out",
+      "stats": {
+        "gp": 5,
+        "mpg": 11,
+        "ppg": 3.6,
+        "rpg": 2.6,
+        "apg": 1,
+        "spg": 0.2,
+        "bpg": 0.2
+      },
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Atlanta Hawks",
+      "abrev": "ATL",
+      "nombre": "CJ McCollum",
+      "espnId": "2490149",
+      "pos": "G",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Calf",
+      "regreso": "2026-12-19",
+      "fecha": "2026-11-17T21:08Z",
+      "comentario": "McCollum (calf) will miss at least four weeks, per Brad Rowland of the Locked On Podcast Network.",
+      "nivel": "out",
+      "stats": {
+        "gp": 14,
+        "mpg": 26.4,
+        "ppg": 14.5,
+        "rpg": 3.1,
+        "apg": 3.9,
+        "spg": 1.1,
+        "bpg": 0.5
+      },
+      "diasFuera": 0
+    },
+    {
+      "equipo": "Atlanta Hawks",
+      "abrev": "ATL",
+      "nombre": "Kingston Flemings",
+      "espnId": "5149077",
+      "pos": "G",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Back",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T18:28Z",
+      "comentario": "Flemings (back) practiced Tuesday, per Lauren L. Williams of The Atlanta Journal-Constitution.",
+      "nivel": "dia_a_dia",
+      "stats": {
+        "gp": 12,
+        "mpg": 21.5,
+        "ppg": 7.8,
+        "rpg": 2.5,
+        "apg": 4.1,
+        "spg": 0.7,
+        "bpg": 0.3
+      },
+      "diasFuera": 3
+    },
     {
       "equipo": "Atlanta Hawks",
       "abrev": "ATL",
@@ -26,31 +101,6 @@
         "apg": 1.7,
         "spg": 0.2,
         "bpg": 0.6
-      },
-      "diasFuera": 1
-    },
-    {
-      "equipo": "Atlanta Hawks",
-      "abrev": "ATL",
-      "nombre": "Kingston Flemings",
-      "espnId": "5149077",
-      "pos": "G",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Back",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-16T14:47Z",
-      "comentario": "Flemings (back) has been ruled out for Sunday's game against the Bucks.",
-      "nivel": "out",
-      "stats": {
-        "gp": 12,
-        "mpg": 21.5,
-        "ppg": 7.8,
-        "rpg": 2.5,
-        "apg": 4.1,
-        "spg": 0.7,
-        "bpg": 0.3
       },
       "diasFuera": 2
     },
@@ -77,32 +127,7 @@
         "spg": 0.8,
         "bpg": 0.5
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Atlanta Hawks",
-      "abrev": "ATL",
-      "nombre": "Asa Newell",
-      "espnId": "4873201",
-      "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Toe",
-      "regreso": "2026-11-20",
-      "fecha": "2026-11-12T23:08Z",
-      "comentario": "Newell (toe) has been ruled out for Friday's game against Chicago.",
-      "nivel": "out",
-      "stats": {
-        "gp": 5,
-        "mpg": 11,
-        "ppg": 3.6,
-        "rpg": 2.6,
-        "apg": 1,
-        "spg": 0.2,
-        "bpg": 0.2
-      },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Atlanta Hawks",
@@ -119,7 +144,7 @@
       "comentario": "Veesaar was diagnosed with a torn right ACL and is expected to miss the 2026-27 season, the Hawks announced Monday.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Boston Celtics",
@@ -127,12 +152,12 @@
       "nombre": "Neemias Queta",
       "espnId": "4397424",
       "pos": "C",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Rest",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T22:10Z",
+      "fecha": "2026-11-17T03:37Z",
       "comentario": "Queta (rest) won't play in Monday's game against the Magic, Taylor Snow of the Celtics' official site reports.",
       "nivel": "out",
       "stats": {
@@ -169,7 +194,7 @@
         "spg": 0,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Charlotte Hornets",
@@ -194,7 +219,32 @@
         "spg": 0.8,
         "bpg": 0.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Chicago Bulls",
+      "abrev": "CHI",
+      "nombre": "Patrick Williams",
+      "espnId": "4431687",
+      "pos": "F",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Finger",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T21:04Z",
+      "comentario": "Williams (finger) is listed as probable for Wednesday's game against Brooklyn.",
+      "nivel": "probable",
+      "stats": {
+        "gp": 6,
+        "mpg": 22.7,
+        "ppg": 7.8,
+        "rpg": 3.2,
+        "apg": 2,
+        "spg": 0.8,
+        "bpg": 0.5
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Chicago Bulls",
@@ -206,9 +256,9 @@
       "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Back",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T21:30Z",
-      "comentario": "Awaka (back) has been ruled out for Monday's game against the Cavaliers.",
+      "regreso": "2026-11-25",
+      "fecha": "2026-11-17T20:53Z",
+      "comentario": "Awaka (back) has been ruled out for Wednesday's game against the Nets.",
       "nivel": "out",
       "stats": {
         "gp": 4,
@@ -219,7 +269,7 @@
         "spg": 0.3,
         "bpg": 0.8
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Chicago Bulls",
@@ -244,7 +294,7 @@
         "spg": 1.8,
         "bpg": 0.9
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Cleveland Cavaliers",
@@ -252,12 +302,12 @@
       "nombre": "Jaylon Tyson",
       "espnId": "4683747",
       "pos": "G",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Ankle",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T22:39Z",
+      "fecha": "2026-11-17T03:37Z",
       "comentario": "Tyson (ankle) has been ruled out for Monday's game against Chicago.",
       "nivel": "out",
       "stats": {
@@ -269,7 +319,32 @@
         "spg": 0.5,
         "bpg": 0.4
       },
-      "diasFuera": 0
+      "diasFuera": 1
+    },
+    {
+      "equipo": "Cleveland Cavaliers",
+      "abrev": "CLE",
+      "nombre": "Peyton Watson",
+      "espnId": "4576087",
+      "pos": "G",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Head",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T02:58Z",
+      "comentario": "Watson left Monday's 126-115 win over Chicago due to a head injury and did not return.",
+      "nivel": "dia_a_dia",
+      "stats": {
+        "gp": 12,
+        "mpg": 27.7,
+        "ppg": 10.7,
+        "rpg": 4.5,
+        "apg": 2.5,
+        "spg": 0.7,
+        "bpg": 1.5
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "Cleveland Cavaliers",
@@ -294,7 +369,7 @@
         "spg": 0.6,
         "bpg": 1.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Cleveland Cavaliers",
@@ -303,7 +378,7 @@
       "espnId": "4066757",
       "pos": "G",
       "estado": "Out",
-      "fantasy": "OUT",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Elbow",
       "regreso": "2026-11-18",
@@ -319,7 +394,7 @@
         "spg": 1,
         "bpg": 0.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Cleveland Cavaliers",
@@ -328,7 +403,7 @@
       "espnId": "5106268",
       "pos": "F",
       "estado": "Out",
-      "fantasy": "OUT",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Back",
       "regreso": "2026-11-18",
@@ -344,7 +419,7 @@
         "spg": 0.6,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Dallas Mavericks",
@@ -357,9 +432,9 @@
       "fueraTemporada": false,
       "lesion": "Ankle",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T14:45Z",
-      "comentario": "Christie (ankle) has been ruled out for Sunday's game against the Celtics.",
-      "nivel": "out",
+      "fecha": "2026-11-17T18:25Z",
+      "comentario": "Christie (ankle) was a full participant in Tuesday's practice, Mike Curtis of The Dallas Morning News reports.",
+      "nivel": "dia_a_dia",
       "stats": {
         "gp": 11,
         "mpg": 18.5,
@@ -369,7 +444,7 @@
         "spg": 0.5,
         "bpg": 0.3
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Dallas Mavericks",
@@ -382,9 +457,9 @@
       "fueraTemporada": false,
       "lesion": "Ankle",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T14:45Z",
-      "comentario": "Aldama (ankle) is out for Sunday's game against the Celtics.",
-      "nivel": "out",
+      "fecha": "2026-11-17T18:22Z",
+      "comentario": "Aldama (ankle) was a full participant in Tuesday's practice, Mike Curtis of The Dallas Morning News reports.",
+      "nivel": "dia_a_dia",
       "stats": {
         "gp": 5,
         "mpg": 14.6,
@@ -394,7 +469,7 @@
         "spg": 0.6,
         "bpg": 0.2
       },
-      "diasFuera": 1
+      "diasFuera": 2
     },
     {
       "equipo": "Dallas Mavericks",
@@ -419,7 +494,7 @@
         "spg": 1.3,
         "bpg": 0.5
       },
-      "diasFuera": 1
+      "diasFuera": 2
     },
     {
       "equipo": "Dallas Mavericks",
@@ -444,7 +519,7 @@
         "spg": 0.6,
         "bpg": 1.6
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Dallas Mavericks",
@@ -461,7 +536,7 @@
       "comentario": "Biberovic (heel) is out for Thursday's game against Minnesota.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Dallas Mavericks",
@@ -486,7 +561,7 @@
         "spg": 0,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Denver Nuggets",
@@ -510,6 +585,56 @@
         "apg": 1.1,
         "spg": 0.4,
         "bpg": 0.1
+      },
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Detroit Pistons",
+      "abrev": "DET",
+      "nombre": "Isaiah Joe",
+      "espnId": "4395702",
+      "pos": "G",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Hip",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T18:33Z",
+      "comentario": "Joe (hip) is out for Tuesday's game against the Spurs.",
+      "nivel": "out",
+      "stats": {
+        "gp": 3,
+        "mpg": 14,
+        "ppg": 7.3,
+        "rpg": 1.7,
+        "apg": 1,
+        "spg": 0.3,
+        "bpg": 0.3
+      },
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Detroit Pistons",
+      "abrev": "DET",
+      "nombre": "Duncan Robinson",
+      "espnId": "3157465",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Quadriceps",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-17T16:25Z",
+      "comentario": "Robinson will be re-evaluated in one week due to a left quadriceps strain, Coty M. Davis of The Detroit News reports.",
+      "nivel": "out",
+      "stats": {
+        "gp": 12,
+        "mpg": 30.5,
+        "ppg": 17.4,
+        "rpg": 1.8,
+        "apg": 2.1,
+        "spg": 1.3,
+        "bpg": 0.2
       },
       "diasFuera": 2
     },
@@ -566,56 +691,6 @@
     {
       "equipo": "Detroit Pistons",
       "abrev": "DET",
-      "nombre": "Isaiah Joe",
-      "espnId": "4395702",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Hip",
-      "regreso": "2026-11-17",
-      "fecha": "2026-11-16T22:40Z",
-      "comentario": "Joe (hip) is doubtful to play in Tuesday's game against the Spurs.",
-      "nivel": "out",
-      "stats": {
-        "gp": 3,
-        "mpg": 14,
-        "ppg": 7.3,
-        "rpg": 1.7,
-        "apg": 1,
-        "spg": 0.3,
-        "bpg": 0.3
-      },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Detroit Pistons",
-      "abrev": "DET",
-      "nombre": "Duncan Robinson",
-      "espnId": "3157465",
-      "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Quadriceps",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-16T22:37Z",
-      "comentario": "Robinson (quadriceps) has been ruled out for Tuesday's game against the Spurs.",
-      "nivel": "out",
-      "stats": {
-        "gp": 12,
-        "mpg": 30.5,
-        "ppg": 17.4,
-        "rpg": 1.8,
-        "apg": 2.1,
-        "spg": 1.3,
-        "bpg": 0.2
-      },
-      "diasFuera": 1
-    },
-    {
-      "equipo": "Detroit Pistons",
-      "abrev": "DET",
       "nombre": "Jalen Duren",
       "espnId": "4433621",
       "pos": "C",
@@ -636,32 +711,7 @@
         "spg": 1,
         "bpg": 1
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Golden State Warriors",
-      "abrev": "GS",
-      "nombre": "Gui Santos",
-      "espnId": "4997536",
-      "pos": "F",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Ankle",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-15T23:03Z",
-      "comentario": "Santos is questionable for Monday's game against New Orleans due to right ankle inflammation.",
-      "nivel": "duda",
-      "stats": {
-        "gp": 10,
-        "mpg": 18.6,
-        "ppg": 5.6,
-        "rpg": 3.9,
-        "apg": 1.4,
-        "spg": 0.4,
-        "bpg": 0.5
-      },
-      "diasFuera": 0
+      "diasFuera": 3
     },
     {
       "equipo": "Golden State Warriors",
@@ -686,7 +736,7 @@
         "spg": 0.9,
         "bpg": 0.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Golden State Warriors",
@@ -711,7 +761,7 @@
         "spg": 0.9,
         "bpg": 0.4
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Golden State Warriors",
@@ -736,7 +786,7 @@
         "spg": 0.6,
         "bpg": 1.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Golden State Warriors",
@@ -761,7 +811,7 @@
         "spg": 1,
         "bpg": 0.6
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Golden State Warriors",
@@ -786,7 +836,32 @@
         "spg": 1.4,
         "bpg": 0.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Houston Rockets",
+      "abrev": "HOU",
+      "nombre": "Clint Capela",
+      "espnId": "3102529",
+      "pos": "C",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Ankle",
+      "regreso": "2026-11-20",
+      "fecha": "2026-11-17T20:58Z",
+      "comentario": "Capela (ankle) has been ruled out for Wednesday's game against Indiana.",
+      "nivel": "out",
+      "stats": {
+        "gp": 6,
+        "mpg": 14.2,
+        "ppg": 3.2,
+        "rpg": 5.2,
+        "apg": 1.7,
+        "spg": 0.8,
+        "bpg": 0.7
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "Houston Rockets",
@@ -798,9 +873,9 @@
       "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Knee",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-16T18:13Z",
-      "comentario": "Thompson (knee) is listed as questionable for Monday's game against the Heat.",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T20:49Z",
+      "comentario": "Thompson (knee) is questionable for Wednesday's game against the Pacers.",
       "nivel": "duda",
       "stats": {
         "gp": 14,
@@ -816,56 +891,6 @@
     {
       "equipo": "Houston Rockets",
       "abrev": "HOU",
-      "nombre": "Clint Capela",
-      "espnId": "3102529",
-      "pos": "C",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Ankle",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-16T18:09Z",
-      "comentario": "Capela (ankle) is out for Monday's game against the Heat.",
-      "nivel": "out",
-      "stats": {
-        "gp": 6,
-        "mpg": 14.2,
-        "ppg": 3.2,
-        "rpg": 5.2,
-        "apg": 1.7,
-        "spg": 0.8,
-        "bpg": 0.7
-      },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Houston Rockets",
-      "abrev": "HOU",
-      "nombre": "Steven Adams",
-      "espnId": "2991235",
-      "pos": "C",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Calf",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-16T18:07Z",
-      "comentario": "Adams (calf) is out for Monday's game against the Heat.",
-      "nivel": "out",
-      "stats": {
-        "gp": 2,
-        "mpg": 10.5,
-        "ppg": 5,
-        "rpg": 4.5,
-        "apg": 1,
-        "spg": 0,
-        "bpg": 0.5
-      },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Houston Rockets",
-      "abrev": "HOU",
       "nombre": "Julian Phillips",
       "espnId": "5105553",
       "pos": "F",
@@ -873,7 +898,7 @@
       "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Wrist",
-      "regreso": "2026-11-16",
+      "regreso": "2026-11-17",
       "fecha": "2026-11-16T15:28Z",
       "comentario": "Phillips (illness) is available for Wednesday's game against Dallas.",
       "nivel": "probable",
@@ -889,29 +914,29 @@
       "diasFuera": 0
     },
     {
-      "equipo": "Houston Rockets",
-      "abrev": "HOU",
-      "nombre": "Marcus Smart",
-      "espnId": "2990992",
+      "equipo": "Indiana Pacers",
+      "abrev": "IND",
+      "nombre": "Tyrese Haliburton",
+      "espnId": "4396993",
       "pos": "G",
-      "estado": "Suspension",
+      "estado": "Out",
       "fantasy": "OUT",
       "fueraTemporada": false,
-      "lesion": "Suspension",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-12T22:45Z",
-      "comentario": "Smart has been suspended three games for throwing a punch during Wednesday's matchup against Golden State, Shams Charania of ESPN reports.",
+      "lesion": "Hamstring",
+      "regreso": "2026-11-28",
+      "fecha": "2026-11-17T18:46Z",
+      "comentario": "Head coach Rick Carlisle said Tuesday that Haliburton (hamstring) is \"getting there,\" but there's still no definitive timetable for his return to game action, Dustin Dopirak of The Indianapolis Star reports.",
       "nivel": "out",
       "stats": {
-        "gp": 9,
-        "mpg": 21.3,
-        "ppg": 8.3,
-        "rpg": 2.6,
-        "apg": 2,
-        "spg": 1,
-        "bpg": 0.1
+        "gp": 4,
+        "mpg": 33,
+        "ppg": 21.8,
+        "rpg": 4.5,
+        "apg": 9.5,
+        "spg": 1.3,
+        "bpg": 0.8
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Indiana Pacers",
@@ -935,31 +960,6 @@
         "apg": 7.6,
         "spg": 0.5,
         "bpg": 0.2
-      },
-      "diasFuera": 1
-    },
-    {
-      "equipo": "Indiana Pacers",
-      "abrev": "IND",
-      "nombre": "Tyrese Haliburton",
-      "espnId": "4396993",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Hamstring",
-      "regreso": "2026-11-22",
-      "fecha": "2026-11-11T22:29Z",
-      "comentario": "Head coach Rick Carlisle said Wednesday that Haliburton (hamstring) will miss at least 10 more days, Alex Golden of SI.com reports.",
-      "nivel": "out",
-      "stats": {
-        "gp": 4,
-        "mpg": 33,
-        "ppg": 21.8,
-        "rpg": 4.5,
-        "apg": 9.5,
-        "spg": 1.3,
-        "bpg": 0.8
       },
       "diasFuera": 2
     },
@@ -986,7 +986,7 @@
         "spg": 0.6,
         "bpg": 0.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Indiana Pacers",
@@ -1011,7 +1011,32 @@
         "spg": 0,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "LA Clippers",
+      "abrev": "LAC",
+      "nombre": "Yanic Konan Niederhauser",
+      "espnId": "5108024",
+      "pos": "C",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Foot",
+      "regreso": "2026-11-23",
+      "fecha": "2026-11-17T01:07Z",
+      "comentario": "Niederhauser (foot) has been ruled out for Tuesday's game against the Jazz.",
+      "nivel": "out",
+      "stats": {
+        "gp": 41,
+        "mpg": 10.3,
+        "ppg": 4.3,
+        "rpg": 2.9,
+        "apg": 0.3,
+        "spg": 0.1,
+        "bpg": 0.7
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "LA Clippers",
@@ -1036,32 +1061,7 @@
         "spg": 0.8,
         "bpg": 0.7
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "LA Clippers",
-      "abrev": "LAC",
-      "nombre": "Yanic Konan Niederhauser",
-      "espnId": "5108024",
-      "pos": "C",
-      "estado": "Out",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Foot",
-      "regreso": "2026-11-17",
-      "fecha": "2026-11-10T00:05Z",
-      "comentario": "Niederhauser (foot) is out for Tuesday's game against Phoenix, Ohm Youngmisuk of ESPN.com reports.",
-      "nivel": "out",
-      "stats": {
-        "gp": 41,
-        "mpg": 10.3,
-        "ppg": 4.3,
-        "rpg": 2.9,
-        "apg": 0.3,
-        "spg": 0.1,
-        "bpg": 0.7
-      },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "LA Clippers",
@@ -1086,7 +1086,7 @@
         "spg": 0.5,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "LA Clippers",
@@ -1111,7 +1111,7 @@
         "spg": 0.8,
         "bpg": 0.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Los Angeles Lakers",
@@ -1119,13 +1119,13 @@
       "nombre": "Austin Reaves",
       "espnId": "4066457",
       "pos": "G",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
+      "estado": "Out",
+      "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Heel",
-      "regreso": "2026-11-17",
-      "fecha": "2026-11-16T14:42Z",
-      "comentario": "Reaves (heel) has been ruled out for Sunday's game against the Suns, Daniel Starkand of LakersNation.com reports.",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T01:11Z",
+      "comentario": "Reaves (heel) is out for Tuesday's game against the Hornets, Dave McMenamin of ESPN.com reports.",
       "nivel": "out",
       "stats": {
         "gp": 12,
@@ -1136,7 +1136,32 @@
         "spg": 1.2,
         "bpg": 0.3
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Los Angeles Lakers",
+      "abrev": "LAL",
+      "nombre": "Walker Kessler",
+      "espnId": "4433136",
+      "pos": "C",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Lower Leg",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T01:10Z",
+      "comentario": "Walker (leg) has been ruled out for Tuesday's game against the Hornets.",
+      "nivel": "out",
+      "stats": {
+        "gp": 14,
+        "mpg": 30.9,
+        "ppg": 14.5,
+        "rpg": 10.9,
+        "apg": 1.9,
+        "spg": 1.2,
+        "bpg": 2.2
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Memphis Grizzlies",
@@ -1144,12 +1169,12 @@
       "nombre": "Isaiah Stewart",
       "espnId": "4432810",
       "pos": "C",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Illness",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T18:05Z",
+      "fecha": "2026-11-17T03:35Z",
       "comentario": "Stewart is out for Monday's game against the Wizards due to an illness.",
       "nivel": "out",
       "stats": {
@@ -1161,7 +1186,32 @@
         "spg": 0.1,
         "bpg": 0.9
       },
-      "diasFuera": 0
+      "diasFuera": 1
+    },
+    {
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "nombre": "Ty Jerome",
+      "espnId": "4065733",
+      "pos": "G",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Hip",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T03:35Z",
+      "comentario": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
+      "nivel": "out",
+      "stats": {
+        "gp": 11,
+        "mpg": 30.5,
+        "ppg": 25.4,
+        "rpg": 3.4,
+        "apg": 5.3,
+        "spg": 0.7,
+        "bpg": 0.2
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "Memphis Grizzlies",
@@ -1186,7 +1236,7 @@
         "spg": 1,
         "bpg": 0.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Memphis Grizzlies",
@@ -1211,81 +1261,6 @@
         "spg": 0.3,
         "bpg": 0.4
       },
-      "diasFuera": 1
-    },
-    {
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "nombre": "Ty Jerome",
-      "espnId": "4065733",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Hip",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T22:13Z",
-      "comentario": "Jerome (hip) has been ruled out for Monday's game against the Wizards.",
-      "nivel": "out",
-      "stats": {
-        "gp": 11,
-        "mpg": 30.5,
-        "ppg": 25.4,
-        "rpg": 3.4,
-        "apg": 5.3,
-        "spg": 0.7,
-        "bpg": 0.2
-      },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "nombre": "Quinten Post",
-      "espnId": "4593016",
-      "pos": "C",
-      "estado": "Out",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Concussion",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-15T22:12Z",
-      "comentario": "Post (concussion) is questionable for Monday's game against the Wizards.",
-      "nivel": "out",
-      "stats": {
-        "gp": 8,
-        "mpg": 13,
-        "ppg": 5,
-        "rpg": 2.1,
-        "apg": 0.4,
-        "spg": 0.3,
-        "bpg": 0.3
-      },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "nombre": "Zach Edey",
-      "espnId": "4600663",
-      "pos": "C",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Ankle",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-15T22:11Z",
-      "comentario": "Edey (ankle) is questionable for Monday's game against Washington.",
-      "nivel": "duda",
-      "stats": {
-        "gp": 10,
-        "mpg": 20.7,
-        "ppg": 7.6,
-        "rpg": 7.7,
-        "apg": 0.9,
-        "spg": 0.1,
-        "bpg": 1.3
-      },
       "diasFuera": 2
     },
     {
@@ -1303,7 +1278,32 @@
       "comentario": "Saunders signed a two-way contract with the Grizzlies on Saturday, Shams Charania of ESPN reports.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Miami Heat",
+      "abrev": "MIA",
+      "nombre": "Myron Gardner",
+      "espnId": "4431772",
+      "pos": "F",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Hamstring",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T21:35Z",
+      "comentario": "Gardner (hamstring) is questionable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
+      "nivel": "duda",
+      "stats": {
+        "gp": 9,
+        "mpg": 10,
+        "ppg": 3,
+        "rpg": 2.3,
+        "apg": 1.1,
+        "spg": 0,
+        "bpg": 0.3
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Miami Heat",
@@ -1311,14 +1311,14 @@
       "nombre": "Nikola Jovic",
       "espnId": "4997528",
       "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Illness",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T22:50Z",
-      "comentario": "Jovic (illness) is out for Monday's game against Houston.",
-      "nivel": "out",
+      "fecha": "2026-11-17T21:34Z",
+      "comentario": "Jovic (illness) is listed as probable for Wednesday's game against Milwaukee, Ira Winderman of the South Florida Sun Sentinel reports.",
+      "nivel": "probable",
       "stats": {
         "gp": 8,
         "mpg": 12.1,
@@ -1333,27 +1333,27 @@
     {
       "equipo": "Miami Heat",
       "abrev": "MIA",
-      "nombre": "Pelle Larsson",
-      "espnId": "4601025",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "nombre": "Bam Adebayo",
+      "espnId": "4066261",
+      "pos": "C",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
-      "lesion": "Illness",
+      "lesion": "Hip",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T22:49Z",
-      "comentario": "Larsson won't play in Monday's game against the Rockets due to an illness, Ira Winderman of the South Florida Sun Sentinel reports.",
-      "nivel": "out",
+      "fecha": "2026-11-17T21:32Z",
+      "comentario": "Adebayo (hip) is probable for Wednesday's game against the Bucks, per Ira Winderman of the South Florida Sun Sentinel.",
+      "nivel": "probable",
       "stats": {
-        "gp": 11,
-        "mpg": 29.5,
-        "ppg": 11.4,
-        "rpg": 3.5,
-        "apg": 3.5,
-        "spg": 1.3,
-        "bpg": 0.1
+        "gp": 14,
+        "mpg": 32.4,
+        "ppg": 18.4,
+        "rpg": 8,
+        "apg": 3.2,
+        "spg": 2.1,
+        "bpg": 0.7
       },
-      "diasFuera": 2
+      "diasFuera": 0
     },
     {
       "equipo": "Milwaukee Bucks",
@@ -1378,7 +1378,7 @@
         "spg": 0.8,
         "bpg": 0.3
       },
-      "diasFuera": 1
+      "diasFuera": 2
     },
     {
       "equipo": "Milwaukee Bucks",
@@ -1403,7 +1403,57 @@
         "spg": 0.2,
         "bpg": 0
       },
-      "diasFuera": 1
+      "diasFuera": 2
+    },
+    {
+      "equipo": "Minnesota Timberwolves",
+      "abrev": "MIN",
+      "nombre": "Zyon Pullin",
+      "espnId": "4592979",
+      "pos": "G",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Quadriceps",
+      "regreso": "2026-11-19",
+      "fecha": "2026-11-17T19:05Z",
+      "comentario": "Pullin (quadriceps) has been ruled out for Tuesday's game against Portland.",
+      "nivel": "out",
+      "stats": {
+        "gp": 3,
+        "mpg": 3.3,
+        "ppg": 1.3,
+        "rpg": 0.7,
+        "apg": 0,
+        "spg": 0,
+        "bpg": 0
+      },
+      "diasFuera": 0
+    },
+    {
+      "equipo": "Minnesota Timberwolves",
+      "abrev": "MIN",
+      "nombre": "Jonathan Kuminga",
+      "espnId": "4433247",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Shoulder",
+      "regreso": "2026-11-19",
+      "fecha": "2026-11-17T19:03Z",
+      "comentario": "Kuminga (shoulder) is out for Tuesday's game against Portland.",
+      "nivel": "out",
+      "stats": {
+        "gp": 14,
+        "mpg": 30.5,
+        "ppg": 12.4,
+        "rpg": 5.7,
+        "apg": 2.8,
+        "spg": 1.1,
+        "bpg": 0.6
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Minnesota Timberwolves",
@@ -1428,7 +1478,7 @@
         "spg": 0.9,
         "bpg": 0.2
       },
-      "diasFuera": 1
+      "diasFuera": 2
     },
     {
       "equipo": "Minnesota Timberwolves",
@@ -1453,7 +1503,7 @@
         "spg": 2,
         "bpg": 0.8
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Minnesota Timberwolves",
@@ -1478,6 +1528,31 @@
         "spg": 1.3,
         "bpg": 0.4
       },
+      "diasFuera": 3
+    },
+    {
+      "equipo": "New Orleans Pelicans",
+      "abrev": "NO",
+      "nombre": "Bennedict Mathurin",
+      "espnId": "4683634",
+      "pos": "G",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Foot",
+      "regreso": "2026-11-20",
+      "fecha": "2026-11-17T20:59Z",
+      "comentario": "Mathurin (foot) has been ruled out for Wednesday's game against Detroit.",
+      "nivel": "out",
+      "stats": {
+        "gp": 12,
+        "mpg": 15.3,
+        "ppg": 5.5,
+        "rpg": 1.8,
+        "apg": 1.2,
+        "spg": 0.3,
+        "bpg": 0
+      },
       "diasFuera": 2
     },
     {
@@ -1490,9 +1565,9 @@
       "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Elbow",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T23:10Z",
-      "comentario": "McGowens (elbow) has been ruled out for Monday's game against the Warriors.",
+      "regreso": "2026-11-20",
+      "fecha": "2026-11-17T20:57Z",
+      "comentario": "McGowens (elbow) has been ruled out for Wednesday's game against Detroit.",
       "nivel": "out",
       "stats": {
         "gp": 7,
@@ -1503,57 +1578,7 @@
         "spg": 1.1,
         "bpg": 0.3
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "New Orleans Pelicans",
-      "abrev": "NO",
-      "nombre": "Bennedict Mathurin",
-      "espnId": "4683634",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Foot",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T23:06Z",
-      "comentario": "Mathurin (foot) has been ruled out for Monday's game against the Warriors.",
-      "nivel": "out",
-      "stats": {
-        "gp": 12,
-        "mpg": 15.3,
-        "ppg": 5.5,
-        "rpg": 1.8,
-        "apg": 1.2,
-        "spg": 0.3,
-        "bpg": 0
-      },
-      "diasFuera": 1
-    },
-    {
-      "equipo": "New Orleans Pelicans",
-      "abrev": "NO",
-      "nombre": "Trey Murphy III",
-      "espnId": "4397688",
-      "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Knee",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T22:57Z",
-      "comentario": "Murphy (knees) has been ruled out for Monday's game against Golden State.",
-      "nivel": "out",
-      "stats": {
-        "gp": 9,
-        "mpg": 32.8,
-        "ppg": 15.6,
-        "rpg": 4.8,
-        "apg": 3.6,
-        "spg": 1,
-        "bpg": 0.2
-      },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "New Orleans Pelicans",
@@ -1565,9 +1590,9 @@
       "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Ankle",
-      "regreso": "2026-11-18",
-      "fecha": "2026-11-15T22:52Z",
-      "comentario": "Watford (ankle) has been ruled out for Monday's game against Golden State.",
+      "regreso": "2026-11-20",
+      "fecha": "2026-11-17T20:55Z",
+      "comentario": "Watford (ankle) has been ruled out for Wednesday's game against Detroit.",
       "nivel": "out",
       "stats": {
         "gp": 6,
@@ -1578,7 +1603,32 @@
         "spg": 0.8,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "New Orleans Pelicans",
+      "abrev": "NO",
+      "nombre": "Trey Murphy III",
+      "espnId": "4397688",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Knee",
+      "regreso": "2026-11-20",
+      "fecha": "2026-11-17T20:51Z",
+      "comentario": "Murphy (knee) has been ruled out for Wednesday's game against Detroit.",
+      "nivel": "out",
+      "stats": {
+        "gp": 9,
+        "mpg": 32.8,
+        "ppg": 15.6,
+        "rpg": 4.8,
+        "apg": 3.6,
+        "spg": 1,
+        "bpg": 0.2
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "New Orleans Pelicans",
@@ -1603,7 +1653,7 @@
         "spg": 1.6,
         "bpg": 0.6
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1628,7 +1678,7 @@
         "spg": 0.4,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1645,7 +1695,7 @@
       "comentario": "Sorber (knee) has been ruled out for Friday's game against the Clippers.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1670,7 +1720,7 @@
         "spg": 2.3,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1695,7 +1745,7 @@
         "spg": 0.7,
         "bpg": 3
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1720,7 +1770,24 @@
         "spg": 1.3,
         "bpg": 0.7
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Orlando Magic",
+      "abrev": "ORL",
+      "nombre": "Izaiyah Nelson",
+      "espnId": "5107251",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Ankle",
+      "regreso": "2026-11-28",
+      "fecha": "2026-11-17T21:22Z",
+      "comentario": "Nelson (ankle) has been ruled out for Wednesday's game against the 76ers.",
+      "nivel": "out",
+      "stats": null,
+      "diasFuera": 3
     },
     {
       "equipo": "Orlando Magic",
@@ -1732,7 +1799,7 @@
       "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Knee",
-      "regreso": "2026-11-18",
+      "regreso": "2026-11-22",
       "fecha": "2026-11-15T18:22Z",
       "comentario": "Isaac (knee) has been ruled out for Monday's game against the Celtics.",
       "nivel": "out",
@@ -1745,7 +1812,7 @@
         "spg": 0.4,
         "bpg": 0.6
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Orlando Magic",
@@ -1770,7 +1837,7 @@
         "spg": 0.5,
         "bpg": 0.3
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Orlando Magic",
@@ -1795,49 +1862,32 @@
         "spg": 1,
         "bpg": 0
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Orlando Magic",
-      "abrev": "ORL",
-      "nombre": "Izaiyah Nelson",
-      "espnId": "5107251",
-      "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Ankle",
-      "regreso": "2026-11-18",
-      "fecha": "2026-09-28T21:33Z",
-      "comentario": "Team president Jeff Weltman said Monday that Nelson (ankle) remains about a month away from returning to the court after offseason surgery, per Philip Rossman-Reich of OrlandoMagicDaily.com.",
-      "nivel": "out",
-      "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Philadelphia 76ers",
       "abrev": "PHI",
-      "nombre": "Joel Embiid",
-      "espnId": "3059318",
-      "pos": "C",
+      "nombre": "Jaylen Brown",
+      "espnId": "3917376",
+      "pos": "G",
       "estado": "Day-To-Day",
       "fantasy": "GTD",
       "fueraTemporada": false,
-      "lesion": "Foot",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-16T18:09Z",
-      "comentario": "Embiid (foot) is questionable for Monday's game against the Nets.",
-      "nivel": "duda",
+      "lesion": "Hamstring",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T04:56Z",
+      "comentario": "Brown (hamstring/head) will undergo further evaluation Tuesday and could receive an MRI, Kris Rhim of ESPN reports.",
+      "nivel": "dia_a_dia",
       "stats": {
-        "gp": 11,
-        "mpg": 31.5,
-        "ppg": 17.9,
-        "rpg": 8.8,
-        "apg": 3.7,
-        "spg": 0.7,
-        "bpg": 0.7
+        "gp": 14,
+        "mpg": 34.6,
+        "ppg": 22.6,
+        "rpg": 6.6,
+        "apg": 3.6,
+        "spg": 1.3,
+        "bpg": 0.5
       },
-      "diasFuera": 1
+      "diasFuera": 0
     },
     {
       "equipo": "Philadelphia 76ers",
@@ -1845,12 +1895,12 @@
       "nombre": "LeBron James",
       "espnId": "1966",
       "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Back",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-16T18:07Z",
+      "fecha": "2026-11-17T03:41Z",
       "comentario": "James (back) has been ruled out for Monday's game against the Nets.",
       "nivel": "out",
       "stats": {
@@ -1862,7 +1912,7 @@
         "spg": 1.2,
         "bpg": 0.7
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Philadelphia 76ers",
@@ -1871,12 +1921,12 @@
       "espnId": "4870562",
       "pos": "F",
       "estado": "Out",
-      "fantasy": "OUT",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Back",
       "regreso": "2026-11-18",
-      "fecha": "2026-11-12T16:37Z",
-      "comentario": "Barlow (back) participated in Thursday's shootaround but doesn't have a timeline to return to game action, Ky Carlin of USA Today reports.",
+      "fecha": "2026-11-16T23:45Z",
+      "comentario": "Barlow (back) will be re-evaluated later in the week and is thought to be nearing his 2026-27 season debut, Tony Jones of The Athletic reports.",
       "nivel": "out",
       "stats": {
         "gp": 71,
@@ -1887,7 +1937,7 @@
         "spg": 0.9,
         "bpg": 0.7
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Philadelphia 76ers",
@@ -1899,7 +1949,7 @@
       "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Back",
-      "regreso": "2026-11-18",
+      "regreso": "2026-11-21",
       "fecha": "2026-11-12T16:36Z",
       "comentario": "Bona (back) will be re-evaluated in approximately one week after seeing a specialist, Ky Carlin of USA Today reports.",
       "nivel": "out",
@@ -1912,7 +1962,7 @@
         "spg": 0.4,
         "bpg": 1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Philadelphia 76ers",
@@ -1937,32 +1987,7 @@
         "spg": 0.2,
         "bpg": 0.5
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "Phoenix Suns",
-      "abrev": "PHX",
-      "nombre": "Ryan Dunn",
-      "espnId": "4888725",
-      "pos": "F",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Thumb",
-      "regreso": "2026-11-16",
-      "fecha": "2026-11-16T20:18Z",
-      "comentario": "Dunn (thumb) is listed as questionable for Monday's game against Denver.",
-      "nivel": "duda",
-      "stats": {
-        "gp": 12,
-        "mpg": 17.5,
-        "ppg": 5.1,
-        "rpg": 4.2,
-        "apg": 1.2,
-        "spg": 0.6,
-        "bpg": 0.7
-      },
-      "diasFuera": 0
+      "diasFuera": 3
     },
     {
       "equipo": "Phoenix Suns",
@@ -1987,7 +2012,32 @@
         "spg": 0.9,
         "bpg": 0.9
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Portland Trail Blazers",
+      "abrev": "POR",
+      "nombre": "Deni Avdija",
+      "espnId": "4683021",
+      "pos": "F",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Foot",
+      "regreso": "2026-11-17",
+      "fecha": "2026-11-17T19:20Z",
+      "comentario": "Avdija (foot) is questionable for Tuesday's game against the Timberwolves.",
+      "nivel": "duda",
+      "stats": {
+        "gp": 13,
+        "mpg": 32.5,
+        "ppg": 24.2,
+        "rpg": 6.2,
+        "apg": 6.1,
+        "spg": 1.1,
+        "bpg": 0.4
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Portland Trail Blazers",
@@ -1998,10 +2048,10 @@
       "estado": "Out",
       "fantasy": "OUT",
       "fueraTemporada": false,
-      "lesion": "Foot",
-      "regreso": "2026-11-17",
-      "fecha": "2026-11-15T23:02Z",
-      "comentario": "Youngblood (foot) is out for Monday's game against the Timberwolves.",
+      "lesion": "Heel",
+      "regreso": "2026-11-19",
+      "fecha": "2026-11-17T19:19Z",
+      "comentario": "Youngblood (heel) has been ruled out for Tuesday's game at Minnesota.",
       "nivel": "out",
       "stats": {
         "gp": 6,
@@ -2012,7 +2062,7 @@
         "spg": 0.5,
         "bpg": 0.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Portland Trail Blazers",
@@ -2037,7 +2087,7 @@
         "spg": 0.4,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Portland Trail Blazers",
@@ -2062,7 +2112,7 @@
         "spg": 1,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Portland Trail Blazers",
@@ -2087,7 +2137,7 @@
         "spg": 1.4,
         "bpg": 0.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Sacramento Kings",
@@ -2162,7 +2212,7 @@
         "spg": 1.3,
         "bpg": 1.1
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Sacramento Kings",
@@ -2187,7 +2237,7 @@
         "spg": 0.5,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Sacramento Kings",
@@ -2212,7 +2262,7 @@
         "spg": 0.7,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "San Antonio Spurs",
@@ -2237,7 +2287,7 @@
         "spg": 0.9,
         "bpg": 0.4
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "San Antonio Spurs",
@@ -2254,7 +2304,32 @@
       "comentario": "Quaintance has been around the team but has not yet been cleared for basketball activities, Matt Guzman of SI.com reports.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Toronto Raptors",
+      "abrev": "TOR",
+      "nombre": "Scottie Barnes",
+      "espnId": "4433134",
+      "pos": "F",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Illness",
+      "regreso": "2026-11-17",
+      "fecha": "2026-11-17T17:29Z",
+      "comentario": "Barnes (illness) has been downgraded to questionable for Tuesday's game against the Knicks, Blake Murphy of Sportsnet.ca reports.",
+      "nivel": "duda",
+      "stats": {
+        "gp": 9,
+        "mpg": 33.7,
+        "ppg": 24.2,
+        "rpg": 7.8,
+        "apg": 5,
+        "spg": 2.1,
+        "bpg": 0.8
+      },
+      "diasFuera": 3
     },
     {
       "equipo": "Toronto Raptors",
@@ -2271,7 +2346,7 @@
       "comentario": "Bittle (foot) has been ruled out for Sunday's game against the Knicks, Zulfi Sheikh of Sportsnet.ca reports.",
       "nivel": "out",
       "stats": null,
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Toronto Raptors",
@@ -2283,7 +2358,7 @@
       "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Illness",
-      "regreso": "2026-11-16",
+      "regreso": "2026-11-20",
       "fecha": "2026-11-13T15:37Z",
       "comentario": "McCullar signed a two-way contract with the Raptors on Thursday, Michael Scotto of HoopsHype.com reports.",
       "nivel": "dia_a_dia",
@@ -2296,7 +2371,7 @@
         "spg": 0.4,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Toronto Raptors",
@@ -2321,7 +2396,7 @@
         "spg": 3.5,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Utah Jazz",
@@ -2329,13 +2404,13 @@
       "nombre": "Jaxson Hayes",
       "espnId": "4397077",
       "pos": "C",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
+      "estado": "Out",
+      "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Knee",
-      "regreso": "2026-11-17",
-      "fecha": "2026-11-16T14:44Z",
-      "comentario": "Hayes (knee) has been ruled out for Sunday's game against the Spurs.",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T01:08Z",
+      "comentario": "Hayes (knee) has been ruled out for Tuesday's game against the Clippers.",
       "nivel": "out",
       "stats": {
         "gp": 12,
@@ -2346,7 +2421,7 @@
         "spg": 0.9,
         "bpg": 1.3
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Utah Jazz",
@@ -2371,7 +2446,7 @@
         "spg": 0.6,
         "bpg": 0.6
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Utah Jazz",
@@ -2396,7 +2471,7 @@
         "spg": 1.3,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Utah Jazz",
@@ -2421,7 +2496,32 @@
         "spg": 0.3,
         "bpg": 1.3
       },
-      "diasFuera": 2
+      "diasFuera": 3
+    },
+    {
+      "equipo": "Washington Wizards",
+      "abrev": "WSH",
+      "nombre": "Felix Okpara",
+      "espnId": "5105841",
+      "pos": "F",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Back",
+      "regreso": "2026-11-18",
+      "fecha": "2026-11-17T16:38Z",
+      "comentario": "Okpara (illness) is available for Friday's game against Toronto.",
+      "nivel": "probable",
+      "stats": {
+        "gp": 3,
+        "mpg": 1.7,
+        "ppg": 1,
+        "rpg": 0.7,
+        "apg": 0,
+        "spg": 0,
+        "bpg": 0
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Washington Wizards",
@@ -2446,7 +2546,7 @@
         "spg": 0.5,
         "bpg": 0.7
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Washington Wizards",
@@ -2471,7 +2571,7 @@
         "spg": 0,
         "bpg": 0
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Washington Wizards",
@@ -2496,7 +2596,7 @@
         "spg": 0.5,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Washington Wizards",
@@ -2521,8 +2621,8 @@
         "spg": 1.1,
         "bpg": 0.5
       },
-      "diasFuera": 2
+      "diasFuera": 3
     }
   ],
-  "enriquecido": "2026-11-16T23:09:40.959Z"
+  "enriquecido": "2026-11-17T21:58:41.613Z"
 }
