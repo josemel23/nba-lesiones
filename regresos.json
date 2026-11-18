@@ -1,6 +1,24 @@
 {
-  "actualizado": "2026-11-17T21:58:41.613Z",
+  "actualizado": "2026-11-18T03:59:09.615Z",
   "regresos": [
+    {
+      "espnId": "1966",
+      "nombre": "LeBron James",
+      "equipo": "Philadelphia 76ers",
+      "abrev": "PHI",
+      "pos": "F",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 11,
+        "mpg": 32.5,
+        "ppg": 15.1,
+        "rpg": 7.2,
+        "apg": 6.9,
+        "spg": 1.2,
+        "bpg": 0.7
+      }
+    },
     {
       "espnId": "3992",
       "nombre": "James Harden",
@@ -38,6 +56,24 @@
       }
     },
     {
+      "espnId": "6442",
+      "nombre": "Kyrie Irving",
+      "equipo": "Dallas Mavericks",
+      "abrev": "DAL",
+      "pos": "G",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 11,
+        "mpg": 30.7,
+        "ppg": 22.7,
+        "rpg": 3.5,
+        "apg": 4.4,
+        "spg": 1.3,
+        "bpg": 0.5
+      }
+    },
+    {
       "espnId": "6475",
       "nombre": "Klay Thompson",
       "equipo": "Miami Heat",
@@ -53,24 +89,6 @@
         "apg": 1.9,
         "spg": 0.2,
         "bpg": 0.7
-      }
-    },
-    {
-      "espnId": "2530530",
-      "nombre": "T.J. McConnell",
-      "equipo": "Indiana Pacers",
-      "abrev": "IND",
-      "pos": "G",
-      "regresoReal": "2026-11-15T19:31:25.259Z",
-      "diasFuera": 1,
-      "stats": {
-        "gp": 4,
-        "mpg": 12,
-        "ppg": 5.3,
-        "rpg": 2,
-        "apg": 4.5,
-        "spg": 1,
-        "bpg": 0.3
       }
     },
     {
@@ -197,6 +215,24 @@
         "apg": 3.7,
         "spg": 0.7,
         "bpg": 0.7
+      }
+    },
+    {
+      "espnId": "3064440",
+      "nombre": "Zach LaVine",
+      "equipo": "Sacramento Kings",
+      "abrev": "SAC",
+      "pos": "G",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 12,
+        "mpg": 33,
+        "ppg": 21.4,
+        "rpg": 3.3,
+        "apg": 2.8,
+        "spg": 1,
+        "bpg": 0.4
       }
     },
     {
@@ -380,6 +416,24 @@
       }
     },
     {
+      "espnId": "4397424",
+      "nombre": "Neemias Queta",
+      "equipo": "Boston Celtics",
+      "abrev": "BOS",
+      "pos": "C",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 13,
+        "mpg": 22,
+        "ppg": 9.1,
+        "rpg": 6.6,
+        "apg": 1.8,
+        "spg": 0.2,
+        "bpg": 1.3
+      }
+    },
+    {
       "espnId": "4431684",
       "nombre": "Trayce Jackson-Davis",
       "equipo": "Toronto Raptors",
@@ -413,6 +467,24 @@
         "apg": 0.9,
         "spg": 0.2,
         "bpg": 0
+      }
+    },
+    {
+      "espnId": "4433134",
+      "nombre": "Scottie Barnes",
+      "equipo": "Toronto Raptors",
+      "abrev": "TOR",
+      "pos": "F",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 9,
+        "mpg": 33.7,
+        "ppg": 24.2,
+        "rpg": 7.8,
+        "apg": 5,
+        "spg": 2.1,
+        "bpg": 0.8
       }
     },
     {
@@ -467,6 +539,24 @@
         "apg": 3,
         "spg": 0.8,
         "bpg": 1
+      }
+    },
+    {
+      "espnId": "4591725",
+      "nombre": "Ryan Rollins",
+      "equipo": "Milwaukee Bucks",
+      "abrev": "MIL",
+      "pos": "G",
+      "regresoReal": "2026-11-18T03:59:09.615Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 13,
+        "mpg": 23.8,
+        "ppg": 10.5,
+        "rpg": 5,
+        "apg": 3.9,
+        "spg": 0.8,
+        "bpg": 0.3
       }
     },
     {
