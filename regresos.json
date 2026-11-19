@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-19T03:56:10.594Z",
+  "actualizado": "2026-11-19T21:56:26.957Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -17,6 +17,24 @@
         "apg": 6.9,
         "spg": 1.2,
         "bpg": 0.7
+      }
+    },
+    {
+      "espnId": "3213",
+      "nombre": "Al Horford",
+      "equipo": "Golden State Warriors",
+      "abrev": "GS",
+      "pos": "C",
+      "regresoReal": "2026-11-19T21:56:26.957Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 12,
+        "mpg": 17,
+        "ppg": 3.9,
+        "rpg": 3.8,
+        "apg": 1.8,
+        "spg": 0.3,
+        "bpg": 1
       }
     },
     {
@@ -89,24 +107,6 @@
         "apg": 1.9,
         "spg": 0.2,
         "bpg": 0.7
-      }
-    },
-    {
-      "espnId": "6589",
-      "nombre": "Draymond Green",
-      "equipo": "Golden State Warriors",
-      "abrev": "GS",
-      "pos": "F",
-      "regresoReal": "2026-11-19T03:56:10.594Z",
-      "diasFuera": 0,
-      "stats": {
-        "gp": 12,
-        "mpg": 25.8,
-        "ppg": 3.2,
-        "rpg": 5,
-        "apg": 6.9,
-        "spg": 0.9,
-        "bpg": 0.8
       }
     },
     {
@@ -686,6 +686,24 @@
       }
     },
     {
+      "espnId": "4433134",
+      "nombre": "Scottie Barnes",
+      "equipo": "Toronto Raptors",
+      "abrev": "TOR",
+      "pos": "F",
+      "regresoReal": "2026-11-19T21:56:26.957Z",
+      "diasFuera": 5,
+      "stats": {
+        "gp": 10,
+        "mpg": 33.7,
+        "ppg": 23.8,
+        "rpg": 7.4,
+        "apg": 4.7,
+        "spg": 1.9,
+        "bpg": 0.9
+      }
+    },
+    {
       "espnId": "4433136",
       "nombre": "Walker Kessler",
       "equipo": "Los Angeles Lakers",
@@ -758,6 +776,42 @@
       }
     },
     {
+      "espnId": "4591725",
+      "nombre": "Ryan Rollins",
+      "equipo": "Milwaukee Bucks",
+      "abrev": "MIL",
+      "pos": "G",
+      "regresoReal": "2026-11-19T21:56:26.957Z",
+      "diasFuera": 4,
+      "stats": {
+        "gp": 13,
+        "mpg": 23.8,
+        "ppg": 10.5,
+        "rpg": 5,
+        "apg": 3.9,
+        "spg": 0.8,
+        "bpg": 0.3
+      }
+    },
+    {
+      "espnId": "4592979",
+      "nombre": "Zyon Pullin",
+      "equipo": "Minnesota Timberwolves",
+      "abrev": "MIN",
+      "pos": "G",
+      "regresoReal": "2026-11-19T21:56:26.957Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 3,
+        "mpg": 3.3,
+        "ppg": 1.3,
+        "rpg": 0.7,
+        "apg": 0,
+        "spg": 0,
+        "bpg": 0
+      }
+    },
+    {
       "espnId": "4593016",
       "nombre": "Quinten Post",
       "equipo": "Memphis Grizzlies",
@@ -809,24 +863,6 @@
         "apg": 1.6,
         "spg": 1.2,
         "bpg": 1
-      }
-    },
-    {
-      "espnId": "4600663",
-      "nombre": "Zach Edey",
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "pos": "C",
-      "regresoReal": "2026-11-17T21:58:41.613Z",
-      "diasFuera": 3,
-      "stats": {
-        "gp": 10,
-        "mpg": 20.7,
-        "ppg": 7.6,
-        "rpg": 7.7,
-        "apg": 0.9,
-        "spg": 0.1,
-        "bpg": 1.3
       }
     },
     {
@@ -990,16 +1026,6 @@
         "spg": 0.4,
         "bpg": 0.5
       }
-    },
-    {
-      "espnId": "5037878",
-      "nombre": "Ugonna Onyenso",
-      "equipo": "Detroit Pistons",
-      "abrev": "DET",
-      "pos": "C",
-      "regresoReal": "2026-11-16T23:09:40.959Z",
-      "diasFuera": 2,
-      "stats": null
     },
     {
       "espnId": "5060631",
