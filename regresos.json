@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-21T03:41:32.201Z",
+  "actualizado": "2026-11-21T20:20:05.520Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -107,24 +107,6 @@
         "apg": 1.9,
         "spg": 0.2,
         "bpg": 0.7
-      }
-    },
-    {
-      "espnId": "2530530",
-      "nombre": "T.J. McConnell",
-      "equipo": "Indiana Pacers",
-      "abrev": "IND",
-      "pos": "G",
-      "regresoReal": "2026-11-21T03:41:32.201Z",
-      "diasFuera": 3,
-      "stats": {
-        "gp": 6,
-        "mpg": 14.3,
-        "ppg": 7.8,
-        "rpg": 2.5,
-        "apg": 4.7,
-        "spg": 1.2,
-        "bpg": 0.2
       }
     },
     {
@@ -323,6 +305,24 @@
         "apg": 1.6,
         "spg": 0.4,
         "bpg": 0.1
+      }
+    },
+    {
+      "espnId": "4065733",
+      "nombre": "Ty Jerome",
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "pos": "G",
+      "regresoReal": "2026-11-21T20:20:05.520Z",
+      "diasFuera": 7,
+      "stats": {
+        "gp": 11,
+        "mpg": 30.5,
+        "ppg": 25.4,
+        "rpg": 3.4,
+        "apg": 5.3,
+        "spg": 0.7,
+        "bpg": 0.2
       }
     },
     {
@@ -596,24 +596,6 @@
       }
     },
     {
-      "espnId": "4397688",
-      "nombre": "Trey Murphy III",
-      "equipo": "New Orleans Pelicans",
-      "abrev": "NO",
-      "pos": "F",
-      "regresoReal": "2026-11-21T03:41:32.201Z",
-      "diasFuera": 6,
-      "stats": {
-        "gp": 9,
-        "mpg": 32.8,
-        "ppg": 15.6,
-        "rpg": 4.8,
-        "apg": 3.6,
-        "spg": 1,
-        "bpg": 0.2
-      }
-    },
-    {
       "espnId": "4411057",
       "nombre": "Kevin McCullar Jr.",
       "equipo": "Toronto Raptors",
@@ -629,6 +611,24 @@
         "apg": 1,
         "spg": 0.4,
         "bpg": 0
+      }
+    },
+    {
+      "espnId": "4431678",
+      "nombre": "Tyrese Maxey",
+      "equipo": "Philadelphia 76ers",
+      "abrev": "PHI",
+      "pos": "G",
+      "regresoReal": "2026-11-21T20:20:05.520Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 15,
+        "mpg": 36.1,
+        "ppg": 26.5,
+        "rpg": 3.3,
+        "apg": 5.8,
+        "spg": 1.3,
+        "bpg": 0.5
       }
     },
     {
@@ -1082,6 +1082,24 @@
       }
     },
     {
+      "espnId": "4870562",
+      "nombre": "Dominick Barlow",
+      "equipo": "Philadelphia 76ers",
+      "abrev": "PHI",
+      "pos": "F",
+      "regresoReal": "2026-11-21T20:20:05.520Z",
+      "diasFuera": 7,
+      "stats": {
+        "gp": 71,
+        "mpg": 23.8,
+        "ppg": 7.7,
+        "rpg": 4.8,
+        "apg": 1.2,
+        "spg": 0.9,
+        "bpg": 0.7
+      }
+    },
+    {
       "espnId": "4871144",
       "nombre": "Alperen Sengun",
       "equipo": "Houston Rockets",
@@ -1115,24 +1133,6 @@
         "apg": 1.2,
         "spg": 0.5,
         "bpg": 0.1
-      }
-    },
-    {
-      "espnId": "4888725",
-      "nombre": "Ryan Dunn",
-      "equipo": "Phoenix Suns",
-      "abrev": "PHX",
-      "pos": "F",
-      "regresoReal": "2026-11-17T21:58:41.613Z",
-      "diasFuera": 1,
-      "stats": {
-        "gp": 12,
-        "mpg": 17.5,
-        "ppg": 5.1,
-        "rpg": 4.2,
-        "apg": 1.2,
-        "spg": 0.6,
-        "bpg": 0.7
       }
     },
     {
@@ -1259,6 +1259,24 @@
         "apg": 0.2,
         "spg": 0.5,
         "bpg": 0.1
+      }
+    },
+    {
+      "espnId": "5105841",
+      "nombre": "Felix Okpara",
+      "equipo": "Washington Wizards",
+      "abrev": "WSH",
+      "pos": "F",
+      "regresoReal": "2026-11-21T20:20:05.520Z",
+      "diasFuera": 4,
+      "stats": {
+        "gp": 3,
+        "mpg": 1.7,
+        "ppg": 1,
+        "rpg": 0.7,
+        "apg": 0,
+        "spg": 0,
+        "bpg": 0
       }
     },
     {
