@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-22T20:32:30.797Z",
+  "actualizado": "2026-11-23T03:26:06.221Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -53,24 +53,6 @@
         "apg": 5.8,
         "spg": 1,
         "bpg": 0.5
-      }
-    },
-    {
-      "espnId": "4251",
-      "nombre": "Paul George",
-      "equipo": "Boston Celtics",
-      "abrev": "BOS",
-      "pos": "F",
-      "regresoReal": "2026-11-14T23:36:10.561Z",
-      "diasFuera": 0,
-      "stats": {
-        "gp": 10,
-        "mpg": 30.1,
-        "ppg": 22,
-        "rpg": 5.2,
-        "apg": 3.8,
-        "spg": 2.1,
-        "bpg": 0.4
       }
     },
     {
@@ -218,6 +200,42 @@
       }
     },
     {
+      "espnId": "3078576",
+      "nombre": "Derrick White",
+      "equipo": "Boston Celtics",
+      "abrev": "BOS",
+      "pos": "G",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 15,
+        "mpg": 29.9,
+        "ppg": 12.7,
+        "rpg": 3,
+        "apg": 5,
+        "spg": 1.1,
+        "bpg": 0.7
+      }
+    },
+    {
+      "espnId": "3102529",
+      "nombre": "Clint Capela",
+      "equipo": "Houston Rockets",
+      "abrev": "HOU",
+      "pos": "C",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 8,
+      "stats": {
+        "gp": 6,
+        "mpg": 14.2,
+        "ppg": 3.2,
+        "rpg": 5.2,
+        "apg": 1.7,
+        "spg": 0.8,
+        "bpg": 0.7
+      }
+    },
+    {
       "espnId": "3133628",
       "nombre": "Myles Turner",
       "equipo": "Milwaukee Bucks",
@@ -254,6 +272,42 @@
       }
     },
     {
+      "espnId": "3136195",
+      "nombre": "Karl-Anthony Towns",
+      "equipo": "New York Knicks",
+      "abrev": "NY",
+      "pos": "C",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 15,
+        "mpg": 32.8,
+        "ppg": 21.3,
+        "rpg": 13.9,
+        "apg": 3.9,
+        "spg": 0.9,
+        "bpg": 0.6
+      }
+    },
+    {
+      "espnId": "3149673",
+      "nombre": "Pascal Siakam",
+      "equipo": "Indiana Pacers",
+      "abrev": "IND",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 15,
+        "mpg": 32.1,
+        "ppg": 23,
+        "rpg": 6.1,
+        "apg": 3.8,
+        "spg": 1,
+        "bpg": 0.1
+      }
+    },
+    {
       "espnId": "3908809",
       "nombre": "Donovan Mitchell",
       "equipo": "Cleveland Cavaliers",
@@ -269,6 +323,42 @@
         "apg": 5.6,
         "spg": 1.2,
         "bpg": 0.5
+      }
+    },
+    {
+      "espnId": "3913176",
+      "nombre": "Brandon Ingram",
+      "equipo": "LA Clippers",
+      "abrev": "LAC",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 8,
+      "stats": {
+        "gp": 77,
+        "mpg": 33.8,
+        "ppg": 21.5,
+        "rpg": 5.6,
+        "apg": 3.7,
+        "spg": 0.8,
+        "bpg": 0.7
+      }
+    },
+    {
+      "espnId": "4065648",
+      "nombre": "Jayson Tatum",
+      "equipo": "Boston Celtics",
+      "abrev": "BOS",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 14,
+        "mpg": 34.1,
+        "ppg": 26.4,
+        "rpg": 6.6,
+        "apg": 6.8,
+        "spg": 0.7,
+        "bpg": 0.7
       }
     },
     {
@@ -323,24 +413,6 @@
         "apg": 1.3,
         "spg": 0.8,
         "bpg": 1
-      }
-    },
-    {
-      "espnId": "4066259",
-      "nombre": "De'Aaron Fox",
-      "equipo": "San Antonio Spurs",
-      "abrev": "SA",
-      "pos": "G",
-      "regresoReal": "2026-11-16T23:09:40.959Z",
-      "diasFuera": 1,
-      "stats": {
-        "gp": 13,
-        "mpg": 28.5,
-        "ppg": 13.6,
-        "rpg": 4.4,
-        "apg": 5.8,
-        "spg": 1.3,
-        "bpg": 0.5
       }
     },
     {
@@ -452,6 +524,24 @@
       }
     },
     {
+      "espnId": "4278129",
+      "nombre": "Deandre Ayton",
+      "equipo": "Washington Wizards",
+      "abrev": "WSH",
+      "pos": "C",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 0,
+      "stats": {
+        "gp": 17,
+        "mpg": 13.1,
+        "ppg": 3.8,
+        "rpg": 4.1,
+        "apg": 0.7,
+        "spg": 0.2,
+        "bpg": 0.3
+      }
+    },
+    {
       "espnId": "4395702",
       "nombre": "Isaiah Joe",
       "equipo": "Detroit Pistons",
@@ -524,21 +614,21 @@
       }
     },
     {
-      "espnId": "4397077",
-      "nombre": "Jaxson Hayes",
-      "equipo": "Utah Jazz",
-      "abrev": "UTAH",
-      "pos": "C",
-      "regresoReal": "2026-11-19T03:56:10.594Z",
-      "diasFuera": 4,
+      "espnId": "4397189",
+      "nombre": "Jalen Smith",
+      "equipo": "Chicago Bulls",
+      "abrev": "CHI",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 2,
       "stats": {
-        "gp": 12,
-        "mpg": 24.2,
-        "ppg": 8.8,
-        "rpg": 6,
-        "apg": 1.6,
-        "spg": 0.9,
-        "bpg": 1.3
+        "gp": 13,
+        "mpg": 24.6,
+        "ppg": 13.4,
+        "rpg": 7.9,
+        "apg": 2.2,
+        "spg": 0.7,
+        "bpg": 1
       }
     },
     {
@@ -632,6 +722,24 @@
       }
     },
     {
+      "espnId": "4431687",
+      "nombre": "Patrick Williams",
+      "equipo": "Chicago Bulls",
+      "abrev": "CHI",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 0,
+      "stats": {
+        "gp": 8,
+        "mpg": 21.5,
+        "ppg": 6.9,
+        "rpg": 2.9,
+        "apg": 1.9,
+        "spg": 0.8,
+        "bpg": 0.6
+      }
+    },
+    {
       "espnId": "4431695",
       "nombre": "Drew Timme",
       "equipo": "Phoenix Suns",
@@ -665,6 +773,24 @@
         "apg": 1.3,
         "spg": 0.9,
         "bpg": 0.4
+      }
+    },
+    {
+      "espnId": "4431772",
+      "nombre": "Myron Gardner",
+      "equipo": "Miami Heat",
+      "abrev": "MIA",
+      "pos": "F",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 5,
+      "stats": {
+        "gp": 9,
+        "mpg": 10,
+        "ppg": 3,
+        "rpg": 2.3,
+        "apg": 1.1,
+        "spg": 0,
+        "bpg": 0.3
       }
     },
     {
@@ -809,24 +935,6 @@
         "apg": 1,
         "spg": 0.7,
         "bpg": 0.2
-      }
-    },
-    {
-      "espnId": "4433287",
-      "nombre": "Brandon Miller",
-      "equipo": "Charlotte Hornets",
-      "abrev": "CHA",
-      "pos": "F",
-      "regresoReal": "2026-11-15T19:31:25.259Z",
-      "diasFuera": 1,
-      "stats": {
-        "gp": 10,
-        "mpg": 31,
-        "ppg": 20.6,
-        "rpg": 5,
-        "apg": 2.2,
-        "spg": 1.1,
-        "bpg": 0.7
       }
     },
     {
@@ -1046,6 +1154,42 @@
       }
     },
     {
+      "espnId": "4781746",
+      "nombre": "Javon Small",
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
+      "pos": "G",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 9,
+        "mpg": 22.1,
+        "ppg": 9.6,
+        "rpg": 3.1,
+        "apg": 5.6,
+        "spg": 0.2,
+        "bpg": 0.1
+      }
+    },
+    {
+      "espnId": "4845374",
+      "nombre": "Bub Carrington",
+      "equipo": "Washington Wizards",
+      "abrev": "WSH",
+      "pos": "G",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 0,
+      "stats": {
+        "gp": 16,
+        "mpg": 16.8,
+        "ppg": 4.8,
+        "rpg": 1.3,
+        "apg": 1.9,
+        "spg": 0.5,
+        "bpg": 0.1
+      }
+    },
+    {
       "espnId": "4870562",
       "nombre": "Dominick Barlow",
       "equipo": "Philadelphia 76ers",
@@ -1096,6 +1240,24 @@
         "rpg": 4.8,
         "apg": 1.2,
         "spg": 0.5,
+        "bpg": 0.1
+      }
+    },
+    {
+      "espnId": "4896372",
+      "nombre": "Walter Clayton Jr.",
+      "equipo": "Dallas Mavericks",
+      "abrev": "DAL",
+      "pos": "G",
+      "regresoReal": "2026-11-23T03:26:06.221Z",
+      "diasFuera": 5,
+      "stats": {
+        "gp": 15,
+        "mpg": 18.3,
+        "ppg": 7.7,
+        "rpg": 3.1,
+        "apg": 3.4,
+        "spg": 0.6,
         "bpg": 0.1
       }
     },
