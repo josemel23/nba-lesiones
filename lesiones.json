@@ -1,8 +1,8 @@
 {
-  "actualizado": "2026-11-25T22:54:07.155Z",
+  "actualizado": "2026-11-26T04:38:16.166Z",
   "fuente": "https://site.api.espn.com/apis/site/v2/sports/basketball/nba/injuries",
-  "espnTimestamp": "2026-11-25T22:54:02Z",
-  "total": 94,
+  "espnTimestamp": "2026-11-26T04:38:10Z",
+  "total": 93,
   "jugadores": [
     {
       "equipo": "Atlanta Hawks",
@@ -144,7 +144,32 @@
         "spg": 0.7,
         "bpg": 0.8
       },
-      "diasFuera": 3
+      "diasFuera": 4
+    },
+    {
+      "equipo": "Brooklyn Nets",
+      "abrev": "BKN",
+      "nombre": "Moritz Wagner",
+      "espnId": "3150844",
+      "pos": "C",
+      "estado": "Out",
+      "fantasy": "OUT",
+      "fueraTemporada": false,
+      "lesion": "Knee",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T02:48Z",
+      "comentario": "Wagner (knee) will not return to Wednesday's game against the Bucks, C.J. Holmes of the New York Daily News reports.",
+      "nivel": "out",
+      "stats": {
+        "gp": 16,
+        "mpg": 17.9,
+        "ppg": 9.9,
+        "rpg": 3.3,
+        "apg": 1.6,
+        "spg": 0.8,
+        "bpg": 0.1
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Brooklyn Nets",
@@ -169,7 +194,7 @@
         "spg": 1.1,
         "bpg": 0.4
       },
-      "diasFuera": 4
+      "diasFuera": 5
     },
     {
       "equipo": "Charlotte Hornets",
@@ -194,7 +219,7 @@
         "spg": 0.4,
         "bpg": 1.1
       },
-      "diasFuera": 0
+      "diasFuera": 1
     },
     {
       "equipo": "Charlotte Hornets",
@@ -219,7 +244,7 @@
         "spg": 0.8,
         "bpg": 0.3
       },
-      "diasFuera": 7
+      "diasFuera": 8
     },
     {
       "equipo": "Charlotte Hornets",
@@ -319,7 +344,7 @@
         "spg": 1.4,
         "bpg": 0.2
       },
-      "diasFuera": 3
+      "diasFuera": 4
     },
     {
       "equipo": "Chicago Bulls",
@@ -419,7 +444,7 @@
         "spg": 0.1,
         "bpg": 0
       },
-      "diasFuera": 7
+      "diasFuera": 8
     },
     {
       "equipo": "Dallas Mavericks",
@@ -561,7 +586,7 @@
         "spg": 0.7,
         "bpg": 0
       },
-      "diasFuera": 8
+      "diasFuera": 9
     },
     {
       "equipo": "Detroit Pistons",
@@ -616,56 +641,6 @@
     {
       "equipo": "Golden State Warriors",
       "abrev": "GS",
-      "nombre": "Yaxel Lendeborg",
-      "espnId": "5175737",
-      "pos": "F",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Illness",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-24T23:20Z",
-      "comentario": "Lendeborg is questionable for Wednesday's game against the Kings with an illness.",
-      "nivel": "duda",
-      "stats": {
-        "gp": 17,
-        "mpg": 31.8,
-        "ppg": 19.2,
-        "rpg": 7.4,
-        "apg": 3.6,
-        "spg": 1,
-        "bpg": 0.8
-      },
-      "diasFuera": 0
-    },
-    {
-      "equipo": "Golden State Warriors",
-      "abrev": "GS",
-      "nombre": "Brandon Williams",
-      "espnId": "4397040",
-      "pos": "G",
-      "estado": "Out",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Hamstring",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-24T20:58Z",
-      "comentario": "Head coach Steve Kerr said Tuesday that Williams (hamstring) is questionable to play Wednesday against the Kings, per Dalton Johnson of NBC Sports Bay Area.",
-      "nivel": "out",
-      "stats": {
-        "gp": 10,
-        "mpg": 16.1,
-        "ppg": 10.4,
-        "rpg": 2.1,
-        "apg": 2.3,
-        "spg": 0.9,
-        "bpg": 0.4
-      },
-      "diasFuera": 11
-    },
-    {
-      "equipo": "Golden State Warriors",
-      "abrev": "GS",
       "nombre": "Stephen Curry",
       "espnId": "3975",
       "pos": "G",
@@ -674,8 +649,8 @@
       "fueraTemporada": false,
       "lesion": "Abdomen",
       "regreso": "2026-12-12",
-      "fecha": "2026-11-12T17:03Z",
-      "comentario": "Curry has been diagnosed with an oblique abdominal tear and will be re-evaluated in two weeks, Shams Charania of ESPN reports.",
+      "fecha": "2026-11-26T01:36Z",
+      "comentario": "Curry (abdomen) will be re-evaluated Friday after Thanksgiving, Anthony Slater of ESPN.com reports.",
       "nivel": "out",
       "stats": {
         "gp": 10,
@@ -786,7 +761,7 @@
         "spg": 1,
         "bpg": 0.1
       },
-      "diasFuera": 7
+      "diasFuera": 8
     },
     {
       "equipo": "Indiana Pacers",
@@ -836,7 +811,7 @@
         "spg": 0.7,
         "bpg": 0.4
       },
-      "diasFuera": 1
+      "diasFuera": 2
     },
     {
       "equipo": "Indiana Pacers",
@@ -861,7 +836,7 @@
         "spg": 0.7,
         "bpg": 0.2
       },
-      "diasFuera": 0
+      "diasFuera": 1
     },
     {
       "equipo": "Indiana Pacers",
@@ -966,6 +941,31 @@
     {
       "equipo": "Memphis Grizzlies",
       "abrev": "MEM",
+      "nombre": "Zach Edey",
+      "espnId": "4600663",
+      "pos": "C",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Ankle",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T03:43Z",
+      "comentario": "Edey (ankle) did not return to Wednesday's 115-97 win over the Clippers. He finished with seven points (3-4 FG, 1-1 FT), four rebounds, two assists and two blocks across nine minutes.",
+      "nivel": "dia_a_dia",
+      "stats": {
+        "gp": 14,
+        "mpg": 21,
+        "ppg": 9,
+        "rpg": 7.3,
+        "apg": 0.9,
+        "spg": 0.4,
+        "bpg": 1.1
+      },
+      "diasFuera": 0
+    },
+    {
+      "equipo": "Memphis Grizzlies",
+      "abrev": "MEM",
       "nombre": "Scotty Pippen Jr.",
       "espnId": "4431785",
       "pos": "G",
@@ -1011,7 +1011,7 @@
         "spg": 0.8,
         "bpg": 0.8
       },
-      "diasFuera": 4
+      "diasFuera": 5
     },
     {
       "equipo": "Memphis Grizzlies",
@@ -1036,7 +1036,7 @@
         "spg": 0.5,
         "bpg": 0.9
       },
-      "diasFuera": 5
+      "diasFuera": 6
     },
     {
       "equipo": "Memphis Grizzlies",
@@ -1079,6 +1079,31 @@
       "nivel": "out",
       "stats": null,
       "diasFuera": 11
+    },
+    {
+      "equipo": "Minnesota Timberwolves",
+      "abrev": "MIN",
+      "nombre": "LaMelo Ball",
+      "espnId": "4432816",
+      "pos": "G",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Ankle",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T03:37Z",
+      "comentario": "Ball (ankle) did not return to Wednesday's 113-106 win over the Thunder.",
+      "nivel": "dia_a_dia",
+      "stats": {
+        "gp": 18,
+        "mpg": 28.3,
+        "ppg": 17.2,
+        "rpg": 4.2,
+        "apg": 5.6,
+        "spg": 1.7,
+        "bpg": 0.2
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Minnesota Timberwolves",
@@ -1228,7 +1253,7 @@
         "spg": 0.3,
         "bpg": 0
       },
-      "diasFuera": 10
+      "diasFuera": 11
     },
     {
       "equipo": "New Orleans Pelicans",
@@ -1258,52 +1283,52 @@
     {
       "equipo": "New York Knicks",
       "abrev": "NY",
-      "nombre": "Jalen Brunson",
-      "espnId": "3934672",
-      "pos": "G",
+      "nombre": "Andre Drummond",
+      "espnId": "6585",
+      "pos": "C",
       "estado": "Day-To-Day",
       "fantasy": "GTD",
       "fueraTemporada": false,
-      "lesion": "Illness",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-25T21:35Z",
-      "comentario": "Brunson (illness) is probable for Wednesday's game against Cleveland.",
-      "nivel": "probable",
+      "lesion": "Head",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T03:40Z",
+      "comentario": "Drummond (head) did not return to Wednesday's 121-102 win over the Cavaliers.",
+      "nivel": "dia_a_dia",
       "stats": {
         "gp": 17,
-        "mpg": 34.4,
-        "ppg": 26.5,
-        "rpg": 3.1,
-        "apg": 5.9,
-        "spg": 0.8,
-        "bpg": 0.3
+        "mpg": 14,
+        "ppg": 3.8,
+        "rpg": 7.8,
+        "apg": 1,
+        "spg": 0.4,
+        "bpg": 0.7
       },
       "diasFuera": 0
     },
     {
       "equipo": "New York Knicks",
       "abrev": "NY",
-      "nombre": "Josh Hart",
-      "espnId": "3062679",
-      "pos": "G",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
+      "nombre": "OG Anunoby",
+      "espnId": "3934719",
+      "pos": "F",
+      "estado": "Out",
+      "fantasy": "OUT",
       "fueraTemporada": false,
-      "lesion": "Shoulder",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-25T17:57Z",
-      "comentario": "Hart (shoulder) has been upgraded to probable for Wednesday's game against the Cavaliers.",
-      "nivel": "probable",
+      "lesion": "Calf",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-25T23:19Z",
+      "comentario": "Anunoby (calf) participated in on-court work for the first time since sustaining the injury, Ian Begley of SportsNet New York reports.",
+      "nivel": "out",
       "stats": {
-        "gp": 14,
-        "mpg": 30.8,
-        "ppg": 6.6,
-        "rpg": 6.7,
-        "apg": 4,
-        "spg": 1.5,
-        "bpg": 0.2
+        "gp": 15,
+        "mpg": 33.9,
+        "ppg": 16.3,
+        "rpg": 5.4,
+        "apg": 2,
+        "spg": 1.1,
+        "bpg": 0.9
       },
-      "diasFuera": 0
+      "diasFuera": 5
     },
     {
       "equipo": "New York Knicks",
@@ -1328,32 +1353,7 @@
         "spg": 0.6,
         "bpg": 0.3
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "New York Knicks",
-      "abrev": "NY",
-      "nombre": "Karl-Anthony Towns",
-      "espnId": "3136195",
-      "pos": "C",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Knee",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-25T17:54Z",
-      "comentario": "Towns (knee) is probable for Wednesday's game against Cleveland.",
-      "nivel": "probable",
-      "stats": {
-        "gp": 16,
-        "mpg": 32.6,
-        "ppg": 21.8,
-        "rpg": 13.9,
-        "apg": 4,
-        "spg": 1,
-        "bpg": 0.7
-      },
-      "diasFuera": 4
+      "diasFuera": 3
     },
     {
       "equipo": "New York Knicks",
@@ -1378,32 +1378,7 @@
         "spg": 0.2,
         "bpg": 0.2
       },
-      "diasFuera": 4
-    },
-    {
-      "equipo": "New York Knicks",
-      "abrev": "NY",
-      "nombre": "OG Anunoby",
-      "espnId": "3934719",
-      "pos": "F",
-      "estado": "Out",
-      "fantasy": "OUT",
-      "fueraTemporada": false,
-      "lesion": "Calf",
-      "regreso": "2026-11-27",
-      "fecha": "2026-11-24T21:53Z",
-      "comentario": "Anunoby (calf) is out for Wednesday's game against Cleveland.",
-      "nivel": "out",
-      "stats": {
-        "gp": 15,
-        "mpg": 33.9,
-        "ppg": 16.3,
-        "rpg": 5.4,
-        "apg": 2,
-        "spg": 1.1,
-        "bpg": 0.9
-      },
-      "diasFuera": 4
+      "diasFuera": 5
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1453,7 +1428,7 @@
         "spg": 0.3,
         "bpg": 0.1
       },
-      "diasFuera": 3
+      "diasFuera": 4
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1478,7 +1453,7 @@
         "spg": 0.1,
         "bpg": 1.7
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Oklahoma City Thunder",
@@ -1670,12 +1645,12 @@
       "nombre": "Joel Embiid",
       "espnId": "3059318",
       "pos": "C",
-      "estado": "Out",
-      "fantasy": "OUT",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
       "fueraTemporada": false,
       "lesion": "Illness",
       "regreso": "2026-11-27",
-      "fecha": "2026-11-25T20:07Z",
+      "fecha": "2026-11-26T01:06Z",
       "comentario": "Embiid (illness) is out for Wednesday's game against Miami, Ira Winderman of the South Florida Sun Sentinel reports.",
       "nivel": "out",
       "stats": {
@@ -1687,7 +1662,32 @@
         "spg": 0.8,
         "bpg": 1
       },
-      "diasFuera": 1
+      "diasFuera": 2
+    },
+    {
+      "equipo": "Philadelphia 76ers",
+      "abrev": "PHI",
+      "nombre": "Jaylen Brown",
+      "espnId": "3917376",
+      "pos": "G",
+      "estado": "Day-To-Day",
+      "fantasy": "GTD",
+      "fueraTemporada": false,
+      "lesion": "Hamstring",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T01:06Z",
+      "comentario": "Brown (hamstring) will receive imaging, and the Sixers will provide an update Thursday, Ky Carlin of USA Today reports.",
+      "nivel": "dia_a_dia",
+      "stats": {
+        "gp": 15,
+        "mpg": 34.3,
+        "ppg": 22.4,
+        "rpg": 6.3,
+        "apg": 3.6,
+        "spg": 1.3,
+        "bpg": 0.5
+      },
+      "diasFuera": 0
     },
     {
       "equipo": "Philadelphia 76ers",
@@ -1920,14 +1920,14 @@
       "nombre": "De'Aaron Fox",
       "espnId": "4066259",
       "pos": "G",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
+      "estado": "Out",
+      "fantasy": "OUT",
       "fueraTemporada": false,
       "lesion": "Lower Leg",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-25T01:27Z",
-      "comentario": "Fox (shin) is questionable to play Wednesday's game against the Trail Blazers.",
-      "nivel": "duda",
+      "regreso": "2026-11-27",
+      "fecha": "2026-11-26T02:20Z",
+      "comentario": "Fox (shin) has been ruled out for Wednesday's game against Portland, Jeff McDonald of the San Antonio Express-News reports.",
+      "nivel": "out",
       "stats": {
         "gp": 16,
         "mpg": 28.9,
@@ -1937,32 +1937,7 @@
         "spg": 1.3,
         "bpg": 0.4
       },
-      "diasFuera": 2
-    },
-    {
-      "equipo": "San Antonio Spurs",
-      "abrev": "SA",
-      "nombre": "Victor Wembanyama",
-      "espnId": "5104157",
-      "pos": "F",
-      "estado": "Day-To-Day",
-      "fantasy": "GTD",
-      "fueraTemporada": false,
-      "lesion": "Back",
-      "regreso": "2026-11-25",
-      "fecha": "2026-11-25T01:23Z",
-      "comentario": "Wembanyama (back) is questionable for Wednesday's game in Portland.",
-      "nivel": "duda",
-      "stats": {
-        "gp": 17,
-        "mpg": 30.3,
-        "ppg": 29.9,
-        "rpg": 12.3,
-        "apg": 3.2,
-        "spg": 1.3,
-        "bpg": 3.9
-      },
-      "diasFuera": 1
+      "diasFuera": 3
     },
     {
       "equipo": "San Antonio Spurs",
@@ -1987,7 +1962,7 @@
         "spg": 0.9,
         "bpg": 0.1
       },
-      "diasFuera": 7
+      "diasFuera": 8
     },
     {
       "equipo": "San Antonio Spurs",
@@ -2121,7 +2096,7 @@
         "spg": 0.9,
         "bpg": 1.2
       },
-      "diasFuera": 2
+      "diasFuera": 3
     },
     {
       "equipo": "Utah Jazz",
@@ -2299,5 +2274,5 @@
       "diasFuera": 11
     }
   ],
-  "enriquecido": "2026-11-25T22:54:07.233Z"
+  "enriquecido": "2026-11-26T04:38:16.253Z"
 }

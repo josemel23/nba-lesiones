@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-25T22:54:07.233Z",
+  "actualizado": "2026-11-26T04:38:16.253Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -218,6 +218,24 @@
       }
     },
     {
+      "espnId": "3062679",
+      "nombre": "Josh Hart",
+      "equipo": "New York Knicks",
+      "abrev": "NY",
+      "pos": "G",
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 1,
+      "stats": {
+        "gp": 14,
+        "mpg": 30.8,
+        "ppg": 6.6,
+        "rpg": 6.7,
+        "apg": 4,
+        "spg": 1.5,
+        "bpg": 0.2
+      }
+    },
+    {
       "espnId": "3078576",
       "nombre": "Derrick White",
       "equipo": "Boston Celtics",
@@ -308,6 +326,24 @@
       }
     },
     {
+      "espnId": "3136195",
+      "nombre": "Karl-Anthony Towns",
+      "equipo": "New York Knicks",
+      "abrev": "NY",
+      "pos": "C",
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 4,
+      "stats": {
+        "gp": 16,
+        "mpg": 32.6,
+        "ppg": 21.8,
+        "rpg": 13.9,
+        "apg": 4,
+        "spg": 1,
+        "bpg": 0.7
+      }
+    },
+    {
       "espnId": "3149673",
       "nombre": "Pascal Siakam",
       "equipo": "Indiana Pacers",
@@ -380,21 +416,21 @@
       }
     },
     {
-      "espnId": "3917376",
-      "nombre": "Jaylen Brown",
-      "equipo": "Philadelphia 76ers",
-      "abrev": "PHI",
+      "espnId": "3934672",
+      "nombre": "Jalen Brunson",
+      "equipo": "New York Knicks",
+      "abrev": "NY",
       "pos": "G",
-      "regresoReal": "2026-11-24T01:26:32.149Z",
-      "diasFuera": 6,
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 0,
       "stats": {
-        "gp": 14,
-        "mpg": 34.6,
-        "ppg": 22.6,
-        "rpg": 6.6,
-        "apg": 3.6,
-        "spg": 1.3,
-        "bpg": 0.5
+        "gp": 17,
+        "mpg": 34.4,
+        "ppg": 26.5,
+        "rpg": 3.1,
+        "apg": 5.9,
+        "spg": 0.8,
+        "bpg": 0.3
       }
     },
     {
@@ -737,6 +773,24 @@
         "apg": 2.5,
         "spg": 0.9,
         "bpg": 0.2
+      }
+    },
+    {
+      "espnId": "4397040",
+      "nombre": "Brandon Williams",
+      "equipo": "Golden State Warriors",
+      "abrev": "GS",
+      "pos": "G",
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 11,
+      "stats": {
+        "gp": 10,
+        "mpg": 16.1,
+        "ppg": 10.4,
+        "rpg": 2.1,
+        "apg": 2.3,
+        "spg": 0.9,
+        "bpg": 0.4
       }
     },
     {
@@ -1244,24 +1298,6 @@
       }
     },
     {
-      "espnId": "4600663",
-      "nombre": "Zach Edey",
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "pos": "C",
-      "regresoReal": "2026-11-21T03:41:32.201Z",
-      "diasFuera": 6,
-      "stats": {
-        "gp": 12,
-        "mpg": 20.8,
-        "ppg": 9.2,
-        "rpg": 7.4,
-        "apg": 0.9,
-        "spg": 0.3,
-        "bpg": 1.2
-      }
-    },
-    {
       "espnId": "4601025",
       "nombre": "Pelle Larsson",
       "equipo": "Miami Heat",
@@ -1668,6 +1704,24 @@
       }
     },
     {
+      "espnId": "5104157",
+      "nombre": "Victor Wembanyama",
+      "equipo": "San Antonio Spurs",
+      "abrev": "SA",
+      "pos": "F",
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 2,
+      "stats": {
+        "gp": 17,
+        "mpg": 30.3,
+        "ppg": 29.9,
+        "rpg": 12.3,
+        "apg": 3.2,
+        "spg": 1.3,
+        "bpg": 3.9
+      }
+    },
+    {
       "espnId": "5105553",
       "nombre": "Julian Phillips",
       "equipo": "Houston Rockets",
@@ -1827,6 +1881,24 @@
         "apg": 1.7,
         "spg": 1.1,
         "bpg": 0.9
+      }
+    },
+    {
+      "espnId": "5175737",
+      "nombre": "Yaxel Lendeborg",
+      "equipo": "Golden State Warriors",
+      "abrev": "GS",
+      "pos": "F",
+      "regresoReal": "2026-11-26T04:38:16.253Z",
+      "diasFuera": 0,
+      "stats": {
+        "gp": 17,
+        "mpg": 31.8,
+        "ppg": 19.2,
+        "rpg": 7.4,
+        "apg": 3.6,
+        "spg": 1,
+        "bpg": 0.8
       }
     },
     {
