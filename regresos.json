@@ -1,5 +1,5 @@
 {
-  "actualizado": "2026-11-26T22:44:05.953Z",
+  "actualizado": "2026-11-27T04:41:58.169Z",
   "regresos": [
     {
       "espnId": "1966",
@@ -740,6 +740,24 @@
       }
     },
     {
+      "espnId": "4396909",
+      "nombre": "Aaron Nesmith",
+      "equipo": "Indiana Pacers",
+      "abrev": "IND",
+      "pos": "G",
+      "regresoReal": "2026-11-27T04:41:58.169Z",
+      "diasFuera": 3,
+      "stats": {
+        "gp": 15,
+        "mpg": 27.3,
+        "ppg": 10.7,
+        "rpg": 3.2,
+        "apg": 2.3,
+        "spg": 0.7,
+        "bpg": 0.4
+      }
+    },
+    {
       "espnId": "4397014",
       "nombre": "Quentin Grimes",
       "equipo": "Los Angeles Lakers",
@@ -989,24 +1007,6 @@
         "apg": 1.2,
         "spg": 0.5,
         "bpg": 0.3
-      }
-    },
-    {
-      "espnId": "4432810",
-      "nombre": "Isaiah Stewart",
-      "equipo": "Memphis Grizzlies",
-      "abrev": "MEM",
-      "pos": "C",
-      "regresoReal": "2026-11-20T03:49:55.187Z",
-      "diasFuera": 4,
-      "stats": {
-        "gp": 10,
-        "mpg": 18.2,
-        "ppg": 10.9,
-        "rpg": 3.3,
-        "apg": 0.9,
-        "spg": 0.1,
-        "bpg": 0.9
       }
     },
     {
