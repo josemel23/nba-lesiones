@@ -2,7 +2,8 @@ name: Actualizar lesiones NBA
 
 on:
   schedule:
-    - cron: "0 14,20,23 * * *"
+    # 11:17 a. m. y 3:17 p. m. hora de Colombia (16:17 y 20:17 UTC)
+    - cron: "17 16,20 * * *"
   workflow_dispatch:
 
 permissions:
